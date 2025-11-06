@@ -17,6 +17,7 @@
 | Name | Role | Responsibility | Key Contribution (quant) | Evidence Links (required) |
 |---|---|---|---|---|
 | Rachel | UIUX Designer | Complete the Website Interface, making the storyboard  | Mobile App (2 vers) & Storyboard | https://www.figma.com/design/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=0-1&t=l5yIaIQ58rwtYsYW-1 |
+| Andy | Senior Developer | Lead technical development for Bluefish App & NIMBUS OS, resolving critical production issues and building core blockchain features | • Resolved 2/3 major Google Play compliance blockers<br>• Executed 20+ commits for strategic repository migration<br>• Built multi-chain wallet supporting 3+ blockchain networks<br>• Architected backend trading systems with Kafka integration | • https://github.com/blockify-bluefish/core<br>• https://github.com/blockify-bluefish/wallet-core<br>• https://github.com/blockify-bluefish/backend-0x<br>• https://github.com/blockify-bluefish/bluefish-core<br>• https://github.com/blockify-bluefish/bluefish-android<br>• https://github.com/blockify-bluefish/bluefish-mobile<br>• https://github.com/Blockify-CEX/order-book |
 
 > Tips  
 > - Use **numbers/metrics** for contributions (e.g., throughput +2.1×, p95 −71%).  
