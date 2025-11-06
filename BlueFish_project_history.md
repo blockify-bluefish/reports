@@ -1,17 +1,17 @@
 # Project History & Weekly Detail for Sep–Oct (Project-Level)
 > **Submission deadline:** 2025-11-06 (Thu)  
-> **Principle:** No confidential materials — **list 100% of deliverables/evidence/links** 
+> **Principle:** **Github repo** — https://github.com/blockify-bluefish/bluefish-mobile
 > **Week basis:** Monday–Sunday
 
 ---
 
 ## 0) Project Overview
-- **Project name:**  
-- **Owner/Lead:**  
-- **Duration (YYYY-MM ~ YYYY-MM):**  
-- **Goal / Success Criteria (KPI):** (e.g., p95 ≤ 300ms, 0 incidents/mo, +x% conversion)  
-- **In-scope / Out-of-scope:**  
-- **Key deliverables:** (docs/design/PRs/releases/dashboards — list links)
+- **Project name:**  BlueFish Wallet
+- **Owner/Lead:**  Jack Le
+- **Duration (YYYY-MM ~ YYYY-MM):**  2024-11 ~ 2025-07
+- **Goal / Success Criteria (KPI):** Multi-chain wallet supporting BTC, ETH, SOL with complete mobile app features
+- **In-scope / Out-of-scope:**  Design, Frontend Development, Backend Development, Smart Contract Integration
+- **Key deliverables:** Mobile App UI/UX, Wallet functionality (BTC/ETH/SOL), Storyboard, User flows
 
 ## 1) Participants & Responsibilities
 | Name | Role | Responsibility | Key Contribution (quant) | Evidence Links (required) |

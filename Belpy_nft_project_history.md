@@ -1,18 +1,18 @@
 # Project History & Weekly Detail for Sep–Oct (Project-Level)
 > **Submission deadline:** 2025-11-06 (Thu)  
-> **Principle:** No confidential materials — **list 100% of deliverables/evidence/links**  
-> **Filename:** `ProjectName_ProjectHistory_vYYYYMMDD.md` (e.g., `PaymentsAPIv2_ProjectHistory_v20251106.md`)  
+> **Principle:** **Github repo** — https://github.com/orgs/belp-nft/repositories  
+> **Filename:** `Belpy_nft_project_history.md` (e.g., `Belpy_nft_ProjectHistory_v20251106.md`)  
 > **Week basis:** Monday–Sunday
 
 ---
 
 ## 0) Project Overview
-- **Project name:**  BELPY design
+- **Project name:**  BELPY NFT
 - **Owner/Lead:**  Jack Le
-- **Duration (YYYY-MM ~ YYYY-MM):**  2025-07 ~ 2025-08
-- **Goal / Success Criteria (KPI):** Landing page, Mint pages, History page, My collection page, Lore page
-- **In-scope / Out-of-scope:** Design
-- **Key deliverables:** Figma design
+- **Duration (YYYY-MM ~ YYYY-MM):**  2025-07 ~ 2025-10
+- **Goal / Success Criteria (KPI):** Complete NFT platform with Landing page, Mint pages, History page, My collection page, Lore page
+- **In-scope / Out-of-scope:** Design, Frontend Development, Backend Development, Smart Contract Development
+- **Key deliverables:** Figma design, Frontend implementation, Backend API, Smart contracts
 
 ## 1) Participants & Responsibilities
 | Name | Role | Responsibility | Key Contribution (quant) | Evidence Links (required) |
