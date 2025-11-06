@@ -19,6 +19,7 @@
 | Rachel | UIUX Designer | Lead UI/UX design for BlueFish mobile wallet, creating complete design system and user flows for v1.0 & v1.1 releases | • Designed 2 complete app versions (v1.0 & v2.0) with 8+ core features<br>• Created comprehensive design system and component library<br>• Designed storyboards & user flows for app navigation<br>• Implemented features: Login, Home, Wallet, Contact, Mission, Chat, Browser, Airdrop, NFT details<br>• Added dark mode color palette and visual refinements<br>• 6 months of iterative design improvements (Nov 2024 - Jul 2025)<br>• Figma design documentation and handoff to development team | • Figma Design System: https://www.figma.com/design/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=0-1&t=l5yIaIQ58rwtYsYW-1<br>• Storyboard v1: https://docs.google.com/presentation/d/1qEVpcCBTy7XqCXQ3e7Y3g1LV9NNrHe2iI34CwxLklZ4<br>• Storyboard v2: https://docs.google.com/presentation/d/1WB3nn9ifRA7Lb6IwKG6Nm-V4Hj9U8qWCyBJVWAsv0MY |
 | Andy | Senior Developer | Lead technical development for Bluefish App & NIMBUS OS, resolving critical production issues and building core blockchain features | • Resolved 2/3 major Google Play compliance blockers<br>• Executed 20+ commits for strategic repository migration<br>• Built multi-chain wallet supporting 3+ blockchain networks<br>• Architected backend trading systems with Kafka integration | • https://github.com/blockify-bluefish/core<br>• https://github.com/blockify-bluefish/wallet-core<br>• https://github.com/blockify-bluefish/backend-0x<br>• https://github.com/blockify-bluefish/bluefish-core<br>• https://github.com/blockify-bluefish/bluefish-android<br>• https://github.com/blockify-bluefish/bluefish-mobile<br>• https://github.com/Blockify-CEX/order-book |
 | Chay | iOS Developer | Lead iOS mobile development for BlueFish v1.0 & v1.1, managing Apple App Store submissions and VoIP integration | • Successfully deployed BlueFish v1.0 & v1.1 to Apple App Store<br>• Handled 11 rounds of Apple Review communication solo (Oct 16 - Nov 6)<br>• Implemented complete VoIP/CallKit integration for iOS<br>• Built CallBanner UI and global call state management<br>• Platform-specific biometry implementation<br>• 13+ commits with ~2,000+ lines of code changes | • https://github.com/blockify-bluefish/bluefish-mobile/commit/819d82c755a099dfa105fdcfe65218876ea02fe5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/44a525b0f4b550c489c545fe581a69d72b2dddc5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/e8bb733398577d0657efa45f6d7a9e7ceed7141d<br>• App Store Connect Submission: `60076b46-9f33-4b10-9377-6d163895f50f` |
+| Renea Nguyen (login: `rrenae`) | Blockchain / Feature Developer | Implement and refine **Solana swap functionality**; develop **multi-chain send features**; integrate **transaction notifications**; improve **mission system**; implement **error tracking** | • **Complete swap flow** (quote → confirmation → execution)<br>• **Multi-chain send** (BTC, Solana, SPL tokens)<br>• **Transaction notification system**<br>• **UI/UX improvements** across features<br>• Extensive commit history showing continuous development and refinement of swap and send features<br>• React Native, Solana Web3.js, Bitcoin libraries, Sentry for monitoring | • GitHub Commits: See weekly log for April-August 2025 section with full commit URLs<br>• **Swap ETH confirmation** — Multiple commits refining confirmation flow<br>• **Send raw transaction** — Transaction execution improvements<br>• **Slippage settings** — User-configurable swap parameters<br>• **Multi-chain support** — BTC, Solana, SPL token transactions<br>• **Tooling & process:** React Native, Solana Web3.js, Bitcoin libraries, Sentry for monitoring, iterative feature development |
 
 > Tips  
 > - Use **numbers/metrics** for contributions (e.g., throughput +2.1×, p95 −71%).  
@@ -27,7 +28,55 @@
 ---
 
 ## 2) Weekly Log for Sep–Oct (project view)
-### 2024-11 - 2024-12 (Sep 27– Dec 31)
+
+### 2025-04 (April 01–April 30)
+- **Key work:** Android wallet infrastructure, Address selection, BTC send UI, Solana send, FCM integration
+- **Owners:** Renea Nguyen
+- **Deliverables/Evidence (required):** • https://github.com/blockify-bluefish/bluefish-mobile/commit/3f05d4997<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/e9998021e<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/3d703a7e7<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/a7ec21955<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/126f1b4f0<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/2cd8d3768<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/b2ea939c0<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/ee4d939d5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/648a37333<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/c05871694<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/1c7b7feeb<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/ece41d80f
+- **Team hours (h):** (team total / per-person estimate optional)
+- **Metrics/Results:** Foundation for swap functionality, Mobile wallet infrastructure, Wallet address picker for sending, Bitcoin transaction interface, Initial Solana transaction implementation, Push notification setup
+- **Dependencies & Risks / Mitigation:** None
+- **Next Actions (Owner / Due):** Send functionality
+
+### 2025-05 (May 01–May 31)
+- **Key work:** Send functionality, Fee calculation, Transaction notifications, Address scanning, Bitcoin transactions, Solana notifications, Solana token list, Aggregator selection, Token list management, Wallet token integration
+- **Owners:** Renea Nguyen
+- **Deliverables/Evidence (required):** • https://github.com/blockify-bluefish/bluefish-mobile/commit/e4c93f652<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/20f80ec63<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/e02357668<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/59c60c254<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/339910574<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/8cdf829d5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/1204be25b<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/dcfb1ea29<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/523003f05<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/162c1bc34<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/c9bcd4570<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/2a7d16aca<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/530acd694<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/43aa1aaa0<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/6a0b2e84f<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/a87efe1c0<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/77e9ef680<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/700c6a4e9<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/40d4e9914<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/9a05f9e54
+- **Team hours (h):** (team total / per-person estimate optional)
+- **Metrics/Results:** Multi-asset sending implementation, Dynamic fee estimation, Multi-chain notification system, QR code integration for send flow, BTC transaction list and sync, Transaction status alerts, Integrated Solana token metadata, Multi-dex swap routing, Enhanced token loading and display, Connected wallet assets to swap/send
+- **Dependencies & Risks / Mitigation:** None
+- **Next Actions (Owner / Due):** ETH transactions
+
+### 2025-06 (June 01–June 30)
+- **Key work:** ETH transactions, Transaction refactor, Solana swap setup, UI structure, Destination token selection, UI improvements, Quote system, Transaction UI
+- **Owners:** Renea Nguyen
+- **Deliverables/Evidence (required):** • https://github.com/blockify-bluefish/bluefish-mobile/commit/c7d5135c2<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/79f4ab33f<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/fb86849d6<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/970bba8f9<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/62acb6345<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/72b3a4b6d<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/6828cf4f8<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/48b426220<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/4b3d79496<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/af884585c<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/40f0f7939<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/16e3ce9b9<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/d79680510<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/8099f1b48<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/1743c1b19<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/97504b91c
+- **Team hours (h):** (team total / per-person estimate optional)
+- **Metrics/Results:** Ethereum transaction handling, Improved transaction management, Initial Solana swap infrastructure, Foundation for swap interface, Enhanced token picker for Solana, Various swap interface refinements, Implemented swap quote generation and management, Improved transaction history and display
+- **Dependencies & Risks / Mitigation:** None
+- **Next Actions (Owner / Due):** Sentry setup
+
+### 2025-07 (July 01–July 31)
+- **Key work:** Sentry setup, Swap confirmation, Swap environment setup, Send raw transaction, Slippage settings, Sentry integration, RPC configuration, Mission system refactor
+- **Owners:** Renea Nguyen
+- **Deliverables/Evidence (required):** • https://github.com/blockify-bluefish/bluefish-mobile/commit/ec2e0b05e<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/f58d161cb<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/276ce0877<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/9c3f7145a<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/f5562c079<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/df005c2f4<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/a897888e7<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/84c6111ee<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/87a994e6b<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/8a7b991c6<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/de3785f17<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/8a294ce28<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/710dbd36a<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/1f1b00e26<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/c76733cd5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/d6006c76e<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/68c662db5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/d0840782a
+- **Team hours (h):** (team total / per-person estimate optional)
+- **Metrics/Results:** Implemented comprehensive error tracking, Enhanced swap confirmation UI and logic, Configured swap for different environments, Implemented direct transaction broadcasting, Added user-configurable swap parameters, Enhanced error tracking and monitoring, Improved blockchain connection settings, Improved mission UI and functionality
+- **Dependencies & Risks / Mitigation:** None
+- **Next Actions (Owner / Due):** Destination token list
+
+### 2025-08 (August 01–August 31)
+- **Key work:** Destination token list, Disable liveness, Swap UI improvements, ETH address integration, Quote auto reload, Swap ETH confirmation
+- **Owners:** Renea Nguyen
+- **Deliverables/Evidence (required):** • https://github.com/blockify-bluefish/bluefish-mobile/commit/56484c404<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/e7623ee63<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/647560b3f<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/1955d24f6<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/c965bc02b<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/3f312526e<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/f114d294f<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/450ac4287<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/d670d5464<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/d49d76833<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/2e714acc5<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/17690d06d<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/e7e6284aa<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/a5f63eaf<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/66a73e146<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/b711605e3<br>• https://github.com/blockify-bluefish/bluefish-mobile/commit/cae33e79d
+- **Team hours (h):** (team total / per-person estimate optional)
+- **Metrics/Results:** Improved token selection UI, Feature flag management, Multiple UI refinements and renaming for clarity, Added ETH address support for swap functionality, Implemented automatic quote refresh for better UX, Finalized swap confirmation flow with multiple merges, Multiple PR merges completing swap confirmation feature
+- **Dependencies & Risks / Mitigation:** None
+- **Next Actions (Owner / Due):** None
+
+---
+
+### Rachel — Design Work
 - **Key work:**  
 - **Owners:**  
 - **Deliverables/Evidence (required):**  
@@ -162,241 +211,71 @@
 - **Dependencies & Risks / Mitigation:**  None
 - **Next Actions (Owner / Due):** None
 
-### September 2025
-
-#### Week 1-2 (Sep 01 - Sep 14)
+### 2025-09 W1-W2 (Sep 01–Sep 14)
 **Milestone:** Apple App Store v1.0 Launch 🎉
 
-**Key Deliverables:**
-- ✅ VoIP Call System v1.0 implementation
-- ✅ Apple Store submission & approval
-- ✅ Production deployment of BlueFish v1.0
+- **Key work:**  VoIP Call System v1.0 implementation, Apple Store submission & approval, Production deployment of BlueFish v1.0
+- **Owners:** Chay
+- **Deliverables/Evidence (required):**  https://github.com/blockify-bluefish/bluefish-mobile/commit/819d82c755a099dfa105fdcfe65218876ea02fe5
+- **Team hours (h):** (team total / per-person estimate optional)  
+- **Metrics/Results:**  Commit: 1 major feature commit, Lines changed: ~441 insertions, ~227 deletions, Files modified: 10, Review turnaround: ~3-5 days, Deployment success: ✅
+- **Dependencies & Risks / Mitigation:**  CallKit required proper background permissions and PushKit certificates, Socket event handling needed state synchronization, iOS native bridge required Objective-C modifications in AppDelegate.m
+- **Next Actions (Owner / Due):**  Apple Review Compliance & VoIP Refinement
 
-**Work Done:**
-- Implemented complete VoIP/CallKit integration for iOS
-- Built socket-based call signaling system
-- Created CallScreen UI component for in-app calls
-- Configured production Firebase for iOS
-- Submitted app to Apple App Store
-- Passed initial Apple review
-- Deployed v1.0 to production
-
-**Metrics:**
-- Commit: 1 major feature commit
-- Lines changed: ~441 insertions, ~227 deletions
-- Files modified: 10
-- Review turnaround: ~3-5 days
-- Deployment success: ✅
-
-**Challenges:**
-- CallKit required proper background permissions and PushKit certificates
-- Socket event handling needed state synchronization
-- iOS native bridge required Objective-C modifications in AppDelegate.m
-
-**Evidence:**
-- Commit: https://github.com/blockify-bluefish/bluefish-mobile/commit/819d82c755a099dfa105fdcfe65218876ea02fe5
-
----
-
-### October 2025
-
-#### Week 1 (Sep 30 - Oct 06)
+### 2025-09 W3-W4 (Sep 30–Oct 06)
 **Focus:** Apple Review Compliance & VoIP Refinement
 
-**Key Deliverables:**
-- ✅ VoIP compliance improvements for Apple review
-- ✅ CallKit cleanup and debugging enhancements
-- ✅ Navigation flow improvements
-- ✅ Configuration cleanup
+- **Key work:**  VoIP compliance improvements for Apple review, CallKit cleanup and debugging enhancements, Navigation flow improvements, Configuration cleanup
+- **Owners:** Chay
+- **Deliverables/Evidence (required):**  • Apple Compliance: https://github.com/blockify-bluefish/bluefish-mobile/commit/2651cd4130025f2ae13966c1b6ad8e2d0a56f5ff<br>• VoIP Debugging: https://github.com/blockify-bluefish/bluefish-mobile/commit/b7da967f3629fbe52185f523f62a4dabfd4d2557
+- **Team hours (h):** (team total / per-person estimate optional)  
+- **Metrics/Results:**  Commits: 8, Lines changed: ~300 insertions, ~250 deletions, Files modified: ~25, Bug fixes: 6, Compliance updates: 2
+- **Dependencies & Risks / Mitigation:**  Apple requires strict VoIP usage justification, Had to balance compliance with functionality, Multiple iteration cycles for call flow optimization
+- **Next Actions (Owner / Due):**  Documentation & Code Quality
 
-**Work Done:**
-- Updated AppIcon assets (42 files) for better branding
-- Removed socket call handlers temporarily for Apple compliance
-- Added comprehensive VoIP debugging and logging
-- Restored receive-call handler after review
-- Fixed China region blocking issue with CallKeep
-- Enhanced CallScreen state management
-- Added NavigationService helpers for call navigation
-- Updated RPC constants and app configuration
-
-**Metrics:**
-- Commits: 8
-- Lines changed: ~300 insertions, ~250 deletions
-- Files modified: ~25
-- Bug fixes: 6
-- Compliance updates: 2
-
-**Challenges:**
-- Apple requires strict VoIP usage justification
-- Had to balance compliance with functionality
-- Multiple iteration cycles for call flow optimization
-
-**Evidence:**
-- Apple Compliance: https://github.com/blockify-bluefish/bluefish-mobile/commit/2651cd4130025f2ae13966c1b6ad8e2d0a56f5ff
-- VoIP Debugging: https://github.com/blockify-bluefish/bluefish-mobile/commit/b7da967f3629fbe52185f523f62a4dabfd4d2557
-
----
-
-#### Week 2 (Oct 07 - Oct 13)
+### 2025-10 W1 (Oct 07–Oct 13)
 **Focus:** Documentation & Code Quality
 
-**Key Deliverables:**
-- ✅ Comprehensive project documentation (PROJECT_GUIDE.md)
-- ✅ CallKeep service enhancement
-- ✅ Improved CallScreen component
+- **Key work:**  Comprehensive project documentation (PROJECT_GUIDE.md), CallKeep service enhancement, Improved CallScreen component
+- **Owners:** Chay
+- **Deliverables/Evidence (required):**  https://github.com/blockify-bluefish/bluefish-mobile/commit/fbaea30d5394b7e476a8c88e194dd9cecc6d522f
+- **Team hours (h):** (team total / per-person estimate optional)  
+- **Metrics/Results:**  Commits: 1, Documentation added: 294 lines, Lines changed: ~490 insertions, ~26 deletions, Files modified: 4
+- **Dependencies & Risks / Mitigation:**  None
+- **Next Actions (Owner / Due):**  Call Banner UI Implementation
 
-**Work Done:**
-- Created 294-line PROJECT_GUIDE.md with complete project guide
-- Documented architecture, development commands, and patterns
-- Enhanced CallScreen with better state management (145 lines refactored)
-- Added CallKeepService documentation and helpers (67 lines)
-- Updated socket context with improved event handling
-
-**Metrics:**
-- Commits: 1
-- Documentation added: 294 lines
-- Lines changed: ~490 insertions, ~26 deletions
-- Files modified: 4
-
-**Impact:**
-- Much better onboarding for new developers
-- Clearer project structure understanding
-- Better maintainability of VoIP services
-
-**Evidence:**
-- Commit: https://github.com/blockify-bluefish/bluefish-mobile/commit/fbaea30d5394b7e476a8c88e194dd9cecc6d522f
-
----
-
-#### Week 3 (Oct 14 - Oct 20)
+### 2025-10 W2 (Oct 14–Oct 20)
 **Focus:** Call Banner UI Implementation
 
-**Key Deliverables:**
-- ✅ VoIP Call Banner technical analysis (1,099 lines)
-- ✅ Call Banner UI component implementation
-- ✅ Global call state management
+- **Key work:**  VoIP Call Banner technical analysis (1,099 lines), Call Banner UI component implementation, Global call state management
+- **Owners:** Chay
+- **Deliverables/Evidence (required):**  • Documentation: https://github.com/blockify-bluefish/bluefish-mobile/commit/4cf59da2cecf540000765fc6cd56bb4e54d10119<br>• Implementation: https://github.com/blockify-bluefish/bluefish-mobile/commit/e0bf24cbb3df09b8a88701bbc41b6845dd84526c
+- **Team hours (h):** (team total / per-person estimate optional)  
+- **Metrics/Results:**  Commits: 2, Documentation added: 1,442 lines (including analysis expansion), Lines changed: ~785 insertions, ~17 deletions, New components: 3, Files modified: 9
+- **Dependencies & Risks / Mitigation:**  None
+- **Next Actions (Owner / Due):**  Planning & Testing for v1.1 Release
 
-**Work Done:**
-- Created comprehensive CALL_BANNER_COMPLETE_ANALYSIS.md
-- Implemented CallBanner UI component (201 lines)
-- Created CallBannerContext for global call state (124 lines)
-- Added NavigationService helpers for call navigation
-- Integrated CallBanner into Root component
-- Enhanced socket context with call banner events
-
-**Metrics:**
-- Commits: 2
-- Documentation added: 1,442 lines (including analysis expansion)
-- Lines changed: ~785 insertions, ~17 deletions
-- New components: 3
-- Files modified: 9
-
-**Impact:**
-- Users see persistent banner during active calls
-- Can return to call from anywhere in app
-- Better call status visibility and UX
-
-**Evidence:**
-- Documentation: https://github.com/blockify-bluefish/bluefish-mobile/commit/4cf59da2cecf540000765fc6cd56bb4e54d10119
-- Implementation: https://github.com/blockify-bluefish/bluefish-mobile/commit/e0bf24cbb3df09b8a88701bbc41b6845dd84526c
-
-
----
-
-#### Week 4 (Oct 21 - Oct 27)
+### 2025-10 W3 (Oct 21–Oct 27)
 **Focus:** Planning & Testing for v1.1 Release
 
-**Work Done:**
-- Planning Apple Store v1.1 submission
-- Testing new features
-- Preparing compliance documentation
-- Code review and QA
+- **Key work:**  Planning Apple Store v1.1 submission, Testing new features, Preparing compliance documentation, Code review and QA
+- **Owners:** Chay
+- **Deliverables/Evidence (required):**  (Planning phase, documentation prepared for Apple review)
+- **Team hours (h):** (team total / per-person estimate optional)  
+- **Metrics/Results:**  Commits: 0 (planning phase)
+- **Dependencies & Risks / Mitigation:**  None
+- **Next Actions (Owner / Due):**  Apple App Store v1.1 Launch
 
-**Metrics:**
-- Commits: 0 (planning phase)
-- Documentation prepared for Apple review
-
----
-
-#### Week 5 (Oct 28 - Nov 03) + Early Nov
+### 2025-10 W4 - 2025-11 Early (Oct 28–Nov 03 + Nov 04–Nov 06)
 **Milestone:** Apple App Store v1.1 Launch 🎉 (with extended Apple Review process through Nov 6)
 
-**Key Deliverables:**
-- ✅ Apple Store v1.1 deployment
-- ✅ **Solo management of 11-round Apple Review communication** (Oct 16 - Nov 6)
-- ✅ Platform-specific biometry implementation
-- ✅ Apple review documentation (3 docs, ~371 lines)
-- ✅ Swap feature compliance workaround
-- ✅ Enhanced NFT details
-
-
-**Work Done:**
-- Successfully deployed BlueFish v1.1 to Apple App Store
-- **CRITICAL ACHIEVEMENT:** Chay handled **11 rounds of Apple App Review messages solo** over 3 weeks:
-  - Oct 16: Initial Apple feedback
-  - Oct 22: Chay response (via Kim Honolulu account)
-  - Oct 27: Apple follow-up
-  - Oct 28: Chay fixes + detailed explanation
-  - Oct 29: Apple additional requirements
-  - Oct 30: Chay comprehensive response
-  - Nov 1: Apple compliance questions
-  - Nov 2: Chay technical documentation
-  - Nov 4 (2 messages): Apple clarifications + Chay final submission
-  - Nov 6: Apple latest response (ongoing)
-- Created comprehensive Apple Review response documentation
-- Implemented BiometryButton with iOS/Android platform splits
-- Enhanced NFT detail pages
-- Updated dApp URL whitelist (98 lines added)
-- Added API configuration service
-- Implemented temporary Swap feature workaround for compliance
-- Updated Xcode project version
-
-**Apple Review Process Details:**
-- **Submission ID:** `60076b46-9f33-4b10-9377-6d163895f50f`
-- **Total messages:** 11 rounds (Oct 16 - Nov 6)
-- **All handled by:** Chay (solo effort)
-- **Challenges addressed:**
-  - VoIP feature explanation and justification
-  - Financial compliance for cryptocurrency features
-  - Guideline interpretation and responses
-  - Technical implementation documentation
-  - Swap feature temporary strategy explanation
-
-**Metrics:**
-- Commits: 2 (major releases)
-- Lines changed: ~947 insertions, ~222 deletions
-- Documentation added: ~371 lines (Apple review)
-- **Apple messages handled:** 11 (solo)
-- Files modified: 44
-- New service modules: 1
-- Review duration: 3+ weeks (ongoing)
-
-
-**Challenges:**
-- **Swap Feature Compliance:**
-  - App has Swap functionality but lacks required financial documentation
-  - Implemented temporary workaround: Swap code exists but is conditionally disabled
-  - Waiting for regulatory documentation approval
-  - Backend team will re-enable via API once approved (no client update needed)
-- **Multi-round Apple Review:**
-  - Required persistent communication over 3+ weeks
-  - Each response needed careful technical + compliance documentation
-  - Balancing feature functionality with Apple's guidelines
-- Platform-specific biometry handling required separate iOS/Android implementations
-- Apple review required detailed guideline response documentation
-
-**Impact:**
-- Successfully navigated complex Apple review process solo
-- App remains compliant while preserving Swap infrastructure
-- Better biometric authentication UX
-- Expanded dApp browser compatibility
-- Enhanced NFT viewing experience
-- Demonstrated ability to handle App Store communication independently
-
-**Evidence:**
-- v1.1 Release: https://github.com/blockify-bluefish/bluefish-mobile/commit/44a525b0f4b550c489c545fe581a69d72b2dddc5
-- Swap Workaround: https://github.com/blockify-bluefish/bluefish-mobile/commit/e8bb733398577d0657efa45f6d7a9e7ceed7141d
-- App Store Connect: Submission ID `60076b46-9f33-4b10-9377-6d163895f50f`
+- **Key work:**  Apple Store v1.1 deployment, Solo management of 11-round Apple Review communication (Oct 16 - Nov 6), Platform-specific biometry implementation, Apple review documentation (3 docs, ~371 lines), Swap feature compliance workaround, Enhanced NFT details
+- **Owners:** Chay
+- **Deliverables/Evidence (required):**  • v1.1 Release: https://github.com/blockify-bluefish/bluefish-mobile/commit/44a525b0f4b550c489c545fe581a69d72b2dddc5<br>• Swap Workaround: https://github.com/blockify-bluefish/bluefish-mobile/commit/e8bb733398577d0657efa45f6d7a9e7ceed7141d<br>• App Store Connect Submission: `60076b46-9f33-4b10-9377-6d163895f50f`
+- **Team hours (h):** (team total / per-person estimate optional)  
+- **Metrics/Results:**  Commits: 2 (major releases), Lines changed: ~947 insertions, ~222 deletions, Documentation added: ~371 lines (Apple review), Apple messages handled: 11 (solo), Files modified: 44, New service modules: 1, Review duration: 3+ weeks (ongoing), Apple Review Process: 11 rounds (Oct 16 - Nov 6) all handled by Chay solo
+- **Dependencies & Risks / Mitigation:**  **Swap Feature Compliance:** App has Swap functionality but lacks required financial documentation; Implemented temporary workaround: Swap code exists but is conditionally disabled; Waiting for regulatory documentation approval; Backend team will re-enable via API once approved (no client update needed). **Multi-round Apple Review:** Required persistent communication over 3+ weeks; Each response needed careful technical + compliance documentation; Balancing feature functionality with Apple's guidelines. Platform-specific biometry handling required separate iOS/Android implementations. Apple review required detailed guideline response documentation.
+- **Next Actions (Owner / Due):**  None (Pending Apple Review approval - ongoing as of Nov 6)
 
 ---
 
