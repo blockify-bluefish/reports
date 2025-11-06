@@ -5,7 +5,25 @@
 ## 1) Work History (Summary)
 | Period | Project/Work | Role | Summary | Results (quant) | Deliverable Links | Collaborators | Tech/Tools | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 2024-09~ | Bluefish App | Sernior Developer | Implement new libraries, develop new feature, debug and fix issues | 90% | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE, 1×QA | ReactNative, Nestjs, MongooseDB | — |
+| 2025-11 | Bluefish App |Sernior Developer|Wallet Authentication: Fix login with wallet address|---|https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android|2×FE, 2xBE| ReactNative, Nestjs, MongooseDB|---|
+| 2025-10 | Bluefish App |Sernior Developer|Wallet Integration: add function loginByWalletAddress, Fix loginByWalletId|---|https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android|2×FE, 2xBE| ReactNative, Nestjs, MongooseDB|---|
+| 2025-10 | NIMBUS | Sernior Developer |research radxaOs, support for solution tech| --- | --- | 1xBE | --- |---|
+| 2025-09 | Bluefish App | Sernior Developer |Implement new libraries, develop new feature, debug and fix issues| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-09 | NIMBUS | Sernior Developer |research radxaOs, try to connect the board| --- | --- | 1xBE | --- |---|
+| 2025-08 | Bluefish App | Sernior Developer |Mission & Task Management| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-07 | Bluefish App | Sernior Developer |Mission Management| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-06 | Bluefish App | Sernior Developer |Wallet Core & Blockchain integration, Metamask module development, NFT endpoints & token management, CoinGecko price API integration| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-05 | Bluefish App | Sernior Developer |Multi-chain wallet support (Bitcoin, Solana), NativeWind integration, App rebranding từ MetaMask sang Bluefish| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-04 | Bluefish App | Sernior Developer |Setup project foundation, Android/iOS build configuration, App icon, package name changes, Initial release preparation| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-03 | Bluefish App | Sernior Developer |First build & project initialization for new structure| --- | https://github.com/blockify-bluefish/bluefish-mobile, https://github.com/blockify-bluefish/bluefish-android | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-02 | CEX | Sernior Developer | Build Ox Backend, integrate with orderbook backend| --- | https://github.com/Blockify-CEX/order-book, https://github.com/blockify-bluefish/backend-0x | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2025-01 | CEX | Sernior Developer | Build orderbook backend, integrate with Kafka| --- | https://github.com/Blockify-CEX/order-book, https://github.com/blockify-bluefish/backend-0x | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2024-12 | CEX | Sernior Developer |Initial commit - Project initialization| --- | https://github.com/Blockify-CEX/order-book, https://github.com/blockify-bluefish/backend-0x | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2024-11 | Bluefish App | Sernior Developer |Initial commit - Project initialization| --- | https://github.com/blockify-bluefish/wallet-core, https://github.com/blockify-bluefish/wallet-mobile | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2024-10 | Bluefish App | Sernior Developer |Fix bulid for android and ios| --- | https://github.com/blockify-bluefish/wallet-mobile, https://github.com/blockify-bluefish/wallet-core | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2024-09 | Bluefish App | Sernior Developer |Change UI for onboarding base on design| --- | https://github.com/blockify-bluefish/core | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2024-08 | Bluefish App | Sernior Developer |Fixed build bugs| --- | https://github.com/blockify-bluefish/core | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
+| 2024-07 | Bluefish App | Sernior Developer |Initial commit - Project initialization| --- | https://github.com/blockify-bluefish/core | 2×FE, 2xBE | ReactNative, Nestjs, MongooseDB |---|
 
 ## 2) Weekly Log
 ### 2025-09 W1~2 (Sep 01–Sep 14)
@@ -14,6 +32,7 @@
 - **Details:** Google Play Console Issue: App must target Android 15 (API level 35) or higher
 - **Links:** 
     - https://blockifyit.atlassian.net/browse/BLUEF-291
+    - Desktop app [Commits](https://github.com/blockify-bluefish/bluefish-mobile/commits/release/android)
 - **Hours:** 40 (impl 1 / test 1)
 - **Metrics:** error 1→0
 - **Issues/Risks & Mitigation:**
@@ -24,7 +43,7 @@
 - **Links:** 
 - **Hours:** 20~
 - **Metrics:** error 1→1
-- **Issues/Risks & Mitigation:**
+- **Issues/Risks & Mitigation:** OS can not be install, hard to debug
 - **Next:** Create OS which is suitable for the NIMBUS device
 
 ### 2025-09 W3~4 (Sep 15–Sep 26)
@@ -33,18 +52,7 @@
 - **Details:** Google Play Console Issue: App must support 16 KB memory page sizes. Try to build.
 - **Links:** 
     - https://blockifyit.atlassian.net/browse/BLUEF-325
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/afe2db1770bbda870ac3e499dc95b485117f8a3c
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/5ee13b56125f57d61d3c1d84a0aced281af4abb3
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/d6a7f11f18a609528d21850154cf1345faa19229
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/c17b31986cca4c40528ef868469c9c5621d6929b
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/a6f22c240ed6b0bf937de38e7711e98be4343a04
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/e4b1f46976c77c242d4b374b082c845f45eab81c
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/8aee8378e184b327ec16b75689189fee31e9b217
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/b120c75ac464f4acaa3124cb5c45a73dad5c7403
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/e8405b31029916b97a4970d608e6398d90abaa6a
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/e7fa6cbe8250e31dbe6bb56926c85f92114b8f61
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/baabd5890eb712219503739659043e092959c5c3
-    - https://github.com/blockify-bluefish/bluefish-mobile/commit/e4a4703c32c70544ded0db8340720590da48681a
+    - Desktop app [Commits](https://github.com/blockify-bluefish/bluefish-mobile/commits/release/android)
 - **Hours:** 80~
 - **Metrics:** error 1→1
 - **Issues/Risks & Mitigation:** too many dependencies which do not support 16 KB memory page sizes
@@ -55,7 +63,7 @@
 - **Links:** 
 - **Hours:** 20~
 - **Metrics:** 
-- **Issues/Risks & Mitigation:**
+- **Issues/Risks & Mitigation:** 
 - **Next:** Support develop OS
 
 ### 2025-10 W1~2 (Sep 29–Oct 14)
@@ -67,31 +75,28 @@
 - **Hours:** 80~
 - **Metrics:** error 1→1
 - **Issues/Risks & Mitigation:** too many dependencies which do not support 16 KB memory page sizes
-- **Next:** Google Play Console Issue: App must support 16 KB memory page sizes
+- **Next:** move all source code then build release to Google Play Console
 
 ### 2025-10 W3~4 (Oct 17–Oct 28)
 - **Project/Work:** Bluefish App
 - **Details:** Google Play Console Issue: App must support 16 KB memory page sizes. Move to new repo to reduce size and dependencies
 - **Links:** 
     - https://blockifyit.atlassian.net/browse/BLUEF-325
-    - https://github.com/blockify-chat/blockify-messenger/commit/3af48d5995a8aafdf0db30ea506776395027b58c
-    - https://github.com/blockify-bluefish/bluefish-core/commit/6afa2519943edb9ef95e4f7713b46e2b0a3e5fc6
-    - https://github.com/blockify-bluefish/bluefish-core/commit/09ee75164bce570ab09e4fadb5e1036aca939995
-    - https://github.com/blockify-bluefish/bluefish-core/commit/ef331f41c132d0d434c203714d788cfad33662c4
-    - https://github.com/blockify-bluefish/bluefish-core/commit/bdd37770a446acc9769ff3524e8b0ed728a64cc4
-    - https://github.com/blockify-bluefish/bluefish-core/commit/9ff6e6d7e9e689e5ec2361119533fde87d8c9482
-    - https://github.com/blockify-bluefish/bluefish-core/commit/a2e409cbea552bdaf3fac5b354f1d05d5d879dc9
-    - https://github.com/blockify-bluefish/bluefish-core/commit/004cac56c7cd375146f15a5a9ff33870178a4293
-    - https://github.com/blockify-bluefish/bluefish-core/commit/e4c8ab29ac8ae50d5e5c48b8fcd0334650ef526b
+    - Desktop app [Commits](https://github.com/blockify-bluefish/bluefish-core/commits/develop/android)
 - **Hours:** 80~
-- **Metrics:** error 1→1
+- **Metrics:** Google Play Console Issue warning App must support 16 KB memory page sizes
 - **Issues/Risks & Mitigation:** bring all code from old repo to new one
-- **Next:** Google Play Console Issue: App must support 16 KB memory page sizes
+- **Next:** move Contact screen
 
-## 3) Monthly Rollup (optional)
-#### #1
-- **Sep:** 120h — Bluefish App
-- **Sep:** 40h — NIMBUS OS
-#### #2
-- **Sep:** 160h — Bluefish App
-- **Sep:** 10h — NIMBUS OS
+### 2025-11 W1 (Nov 03–Nov 06)
+- **Project/Work:** Bluefish App
+- **Details:**
+  - move Contact screen to new repo, integrate nativewind
+- **Links:** 
+  - Desktop app [Commits](https://github.com/blockify-bluefish/bluefish-android/commits/develop/)
+- **Hours (h):** 25
+- **Metrics/Results:** UI work in new repo
+- **Issues & Risks / Mitigation:**
+  - miss match dependencies, lack of document
+- **Next Actions (Owner / Due):**
+  - move Mission screen
