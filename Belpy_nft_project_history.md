@@ -18,9 +18,10 @@
 
 ## 1) Participants & Responsibilities
 
-| Name | Role        | Responsibility | Key Contribution (quant)                                              | Evidence Links (required)                                                                         |
-| ---- | ----------- | -------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Kate | UI Designer | Design         | Landing page, Mint pages, History page, My collection page, Lore page | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0 |
+| Name       | Role               | Responsibility                                          | Key Contribution (quant)                                              | Evidence Links (required)                                                                         |
+| ---------- | ------------------ | ------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Kate       | UI Designer        | Design                                                  | Landing page, Mint pages, History page, My collection page, Lore page | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0 |
+| Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components | https://github.com/belp-nft/belp-website                              |
 
 > Tips
 >
