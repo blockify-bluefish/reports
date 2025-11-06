@@ -1,58 +1,61 @@
-# Project History & Weekly Detail (Project-Level)
-> **Deadline:** 2025-11-06  
-> **Filename:** BelpNft_ProjectHistory_v20251106.md
+# Project History & Weekly Detail for Sep–Oct (Project-Level)
+> **Submission deadline:** 2025-11-06 (Thu)  
+> **Principle:** No confidential materials — **list 100% of deliverables/evidence/links**  
+> **Filename:** `ProjectName_ProjectHistory_vYYYYMMDD.md` (e.g., `PaymentsAPIv2_ProjectHistory_v20251106.md`)  
+> **Week basis:** Monday–Sunday
 
-## 0) Overview
-- **Project:** Belpy Nft
-- **Owner/Lead:** Hieu Trung (Backend)
-- **Duration:** 2025-08 ~ 2025-11
-- **Goal/KPI:**
-- **Scope:** Setup Candy Machine, develop backend APIs, and support NFT minting flow
-- **Key deliverables:** Fully functional NFT minting system deployed and integrated with the website, along with a simple admin panel for NFT conversion and Candy Machine reconfiguration
+---
+
+## 0) Project Overview
+- **Project name:**  BELPY design
+- **Owner/Lead:**  Jack Le
+- **Duration (YYYY-MM ~ YYYY-MM):**  2025-07 ~ 2025-08
+- **Goal / Success Criteria (KPI):** Landing page, Mint pages, History page, My collection page, Lore page
+- **In-scope / Out-of-scope:** Design
+- **Key deliverables:** Figma design
 
 ## 1) Participants & Responsibilities
-| Name       | Role | Responsibility                                                                                   | Key Contribution (quant) | Evidence Links |
-|------------|---|--------------------------------------------------------------------------------------------------|---|---|
-| Hieu Trung | Backend | Candy Machine setup, API implementation, website deployment, admin management for NFT conversion | Successfully configured Candy Machine, completed mint testing, and deployed backend integration |  |
+| Name | Role | Responsibility | Key Contribution (quant) | Evidence Links (required) |
+|---|---|---|---|---|
+| Kate | UI Designer | Design | Landing page, Mint pages, History page, My collection page, Lore page | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0 |
 
-## 2) Weekly Log
-### 2025-09 W3 (Sep 15–Sep 26)
-- **Key work:**
-  - Developed and tested backend APIs for https://belpy.xyz
-  - Setup Candy Machine for NFT minting 
-  - Deployed the Belpy NFT website and backend for staging.
-- **Owners:** Hieu Trung
-- **Links:** 
-  - Setup Candy Machine and APIs [API commits](https://github.com/belp-nft/belp-contract/commits?author=trunghph)
-  - https://belpy.blockifyy.com
-      - Some wallets for testing:
-          - https://solscan.io/account/BQKHinECp1JgTi4kvi3uR6fWVP6gFCq4YSch7yJGuBKX?cluster=devnet
-          - https://solscan.io/account/Fz4SxAPAbG3PprY47vzdYCWqhesntLKP8q3q8zvjwrtR?cluster=devnet
-          - https://solscan.io/account/Fz4SxAPAbG3PprY47vzdYCWqhesntLKP8q3q8zvjwrtR?cluster=devnet
-- **Team hours (h):** 24
-- **Dependencies & Risks / Mitigation:** Some delays were caused by on-chain transaction validation and Candy Machine configuration updates. Testing and verification were repeated across multiple wallets to ensure stable minting performance and correct NFT generation.
+> Tips  
+> - Use **numbers/metrics** for contributions (e.g., throughput +2.1×, p95 −71%).  
+> - Evidence must be verifiable (PRs, docs, dashboards, releases).
 
-### 2025-10 W2 (Oct 6–Oct 10)
-- **Key work:**
-    - Tested the full minting process to ensure reliable NFT creation and successful transactions in mainnet
-    - Go live: 10/10/2025
-- **Owners:** Hieu Trung
-- **Links:**
-  - https://belpy.xyz/
-  - Wallets mainnet: https://solscan.io/account/9s3R5QoBNQvTh7Vt7g4ZksdKjrQp4i5aMCD23LhTPWAW
-- **Team hours (h):** 30
-- **Dependencies & Risks / Mitigation:** Testing and verification were repeated across multiple wallets to ensure stable minting performance and correct NFT generation.
+---
 
-### 2025-10 W4 (Oct 20–Oct 31)
-- **Key work:** 
-  - Deployed the Belpy NFT admin website
-  - Built a simple admin interface for NFT conversion and Candy Machine reconfiguration
-- **Owners:** JHieu Trung
-- **Links:** 
-    - https://admin.belpy.xyz/
-    - Some commits setup APIs and update UI:
-        - UI[Commits: 9215ea3, 3a023353, 8efaf6e, 42868c5](https://github.com/belp-nft/belp-admin/commits/prod)
-        - APIs[Commits](https://github.com/belp-nft/belp-contract/commit/9370abc64a0f96ea8dc4e38a73689646ea6babb9)
-- **Team hours (h):** 30
-- **Dependencies & Risks / Mitigation:**  No major issues encountered.
+## 2) Weekly Log for Sep–Oct (project view)
+### 2025-08 W1 (Jul 28–Aug 03)
+- **Key work:**  Landing page
+- **Owners:**  Kate
+- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
+- **Team hours (h):** (40 /40 )  
+- **Metrics/Results:**  Landing page design
+- **Dependencies & Risks / Mitigation:**  
+- **Next Actions (Owner / Due):**  continue design others pages
 
+### 2025-08 W1 (Aug 04–Aug 10)
+- **Key work:**  Mint pages, My collection page
+- **Owners:**  Kate
+- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
+- **Team hours (h):** (40 /40 )  
+- **Metrics/Results:**  Mint pages, My collection page
+- **Dependencies & Risks / Mitigation:**  
+- **Next Actions (Owner / Due):**  continue design others pages
+
+### 2025-08 W1 (Aug 11–Aug 17)
+- **Key work:**  Lore page, History page
+- **Owners:**  Kate
+- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
+- **Team hours (h):** (40 /40 )  
+- **Metrics/Results:**  Lore page, History page
+- **Dependencies & Risks / Mitigation:**  
+- **Next Actions (Owner / Due):**  
+
+---
+
+## 3) Monthly Rollup (optional)
+- **Aug total hours (team):**  120
+- **Top 3 outcomes:**  Landing page, Mint pages, History page, My collection page, Lore page
+- **Open issues & immediate actions:**
