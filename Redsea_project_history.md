@@ -21,14 +21,8 @@
 | Name       | Role               | Responsibility                                                                                       | Key Contribution (quant)      | Evidence Links (required)                                                                                                                                                                                      |
 | ---------- | ------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Rachel     | UIUX Designer      | Complete the Website Interface, making the storyboard, testing and checking desployed website design | Website (2 vers) & Storyboard | https://www.figma.com/proto/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=5299-117978&t=IWokxFsmhviS8oNb-1&scaling=min-zoom&content-scaling=fixed&page-id=1292%3A32890&starting-point-node-id=5261%3A126335 |
-| Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components                                              |                               | https://github.com/belp-nft/belp-website                                                                                                                                                                       |
-
-> Tips
->
-> - Use **numbers/metrics** for contributions (e.g., throughput +2.1×, p95 −71%).
-> - Evidence must be verifiable (PRs, docs, dashboards, releases).
-
----
+| Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components                                              |                               | https://github.com/blockify-redsea/redsea-website                                                                                                                                                                    |
+| Hieu Trung | Backend | Deployment, API testing via Postman | Identified and fixed database migration mismatches | https://redsea-api.blockifyy.com |
 
 ## 2) Weekly Log for Sep–Oct (project view)
 
@@ -49,7 +43,7 @@
 ### 2025-09 W3 (Sep 15–Sep 21)
 
 - **Key work:** Reseaching and making the User Flow and build design system
-- **Owners:** Jack
+- **Owners:** Rachel
 - **Deliverables/Evidence (required):** https://www.figma.com/proto/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=5299-117978&t=IWokxFsmhviS8oNb-1&scaling=min-zoom&content-scaling=fixed&page-id=1292%3A32890&starting-point-node-id=5261%3A126335
 - **Team hours (h):** (team total / per-person estimate optional)
 - **Metrics/Results:** Complete the user flow and design system
@@ -59,12 +53,20 @@
 ### 2025-09 W4 (Sep 22–Sep 28)
 
 - **Key work:** UI for Red Sea Website, Checking & testing with dev
-- **Owners:** Jack
+- **Owners:** Rachel
 - **Deliverables/Evidence (required):** https://www.figma.com/proto/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=5299-117978&t=IWokxFsmhviS8oNb-1&scaling=min-zoom&content-scaling=fixed&page-id=1292%3A32890&starting-point-node-id=5261%3A126335
 - **Team hours (h):** (team total / per-person estimate optional)
 - **Metrics/Results:** Complete the final UI
 - **Dependencies & Risks / Mitigation:** None
 - **Next Actions (Owner / Due):** Testing with Dev
+
+- **Key work:** Deployment setup and Postman-based API testing for the Redsea project.
+- **Owners:** Hieu Trung
+- **Links:** 
+  - Setup source and deploy [Commits](https://github.com/blockify-redsea/redsea_server/commits?author=trunghph)
+  - Deployment frontend: https://redsea.blockifyy.com API: https://redsea-api.blockifyy.com
+- **Team hours (h):** 12
+- **Dependencies & Risks / Mitigation:** The process took extra time due to missing columns in the migrated database that did not match the current codebase. Each API endpoint was tested manually to identify errors, and missing columns were added accordingly.
 
 ### 2025-09 W5 (Sep 29–Sep 30) _optional_
 
@@ -73,7 +75,7 @@
 ### 2025-10 W1 (Oct 01–Oct 05)
 
 - **Key work:** Checking & Testing with Dev and reparing for storyboard
-- **Owners:** Jack
+- **Owners:** Rachel
 - **Deliverables/Evidence (required):** https://www.figma.com/proto/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=5299-117978&t=IWokxFsmhviS8oNb-1&scaling=min-zoom&content-scaling=fixed&page-id=1292%3A32890&starting-point-node-id=5261%3A126335
 - **Team hours (h):** (team total / per-person estimate optional)
 - **Metrics/Results:** Red Sea VER02
@@ -83,7 +85,7 @@
 ### 2025-10 W2 (Oct 06–Oct 12)
 
 - **Key work:** Complete the storyboard
-- **Owners:** Jack
+- **Owners:** Rachel
 - **Deliverables/Evidence (required):**https://www.figma.com/slides/UApdLzxkIvV51dRJd4cLg5/Redsea-Story-Board?node-id=3-14&t=q6EcLqVkYudwdVcP-0
 - **Team hours (h):** (team total / per-person estimate optional)
 - **Metrics/Results:** Red Sea Storyboard

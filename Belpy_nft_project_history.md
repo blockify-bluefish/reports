@@ -22,6 +22,7 @@
 | ---------- | ------------------ | ------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Kate       | UI Designer        | Design                                                  | Landing page, Mint pages, History page, My collection page, Lore page | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0 |
 | Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components | https://github.com/belp-nft/belp-website                              |
+| Hieu Trung | Backend | Candy Machine setup, API implementation, website deployment, admin management for NFT conversion | Successfully configured Candy Machine, completed mint testing, and deployed backend integration |  |
 
 > Tips
 >
@@ -134,6 +135,21 @@
 - **Dependencies & Risks / Mitigation:** Different wallet APIs - standardized through adapter pattern
 - **Next Actions (Owner / Due):** Start NFT minting implementation (Bee / Sep 29)
 
+- **Key work:**
+  - Developed and tested backend APIs for https://belpy.xyz
+  - Setup Candy Machine for NFT minting 
+  - Deployed the Belpy NFT website and backend for staging.
+- **Owners:** Hieu Trung
+- **Links:** 
+  - Setup Candy Machine and APIs [API commits](https://github.com/belp-nft/belp-contract/commits?author=trunghph)
+  - https://belpy.blockifyy.com
+      - Some wallets for testing:
+          - https://solscan.io/account/BQKHinECp1JgTi4kvi3uR6fWVP6gFCq4YSch7yJGuBKX?cluster=devnet
+          - https://solscan.io/account/Fz4SxAPAbG3PprY47vzdYCWqhesntLKP8q3q8zvjwrtR?cluster=devnet
+          - https://solscan.io/account/Fz4SxAPAbG3PprY47vzdYCWqhesntLKP8q3q8zvjwrtR?cluster=devnet
+- **Team hours (h):** 24
+- **Dependencies & Risks / Mitigation:** Some delays were caused by on-chain transaction validation and Candy Machine configuration updates. Testing and verification were repeated across multiple wallets to ensure stable minting performance and correct NFT generation.
+
 ### 2025-09 W4 (Sep 23–Sep 29) - Advanced UI Components
 
 - **Key work:** Lore section, image carousels, animation systems
@@ -154,6 +170,18 @@
 - **Metrics/Results:** Interactive storytelling sections, smooth animations, mobile-optimized
 - **Dependencies & Risks / Mitigation:** Animation performance - optimized with Framer Motion best practices
 - **Next Actions (Owner / Due):** Begin Candy Machine integration (Bee / Oct 06)
+
+- **Key work:** 
+  - Deployed the Belpy NFT admin website
+  - Built a simple admin interface for NFT conversion and Candy Machine reconfiguration
+- **Owners:** JHieu Trung
+- **Links:** 
+    - https://admin.belpy.xyz/
+    - Some commits setup APIs and update UI:
+        - UI[Commits: 9215ea3, 3a023353, 8efaf6e, 42868c5](https://github.com/belp-nft/belp-admin/commits/prod)
+        - APIs[Commits](https://github.com/belp-nft/belp-contract/commit/9370abc64a0f96ea8dc4e38a73689646ea6babb9)
+- **Team hours (h):** 30
+- **Dependencies & Risks / Mitigation:**  No major issues encountered.
 
 ---
 
