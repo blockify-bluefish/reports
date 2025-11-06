@@ -18,9 +18,10 @@
 
 ## 1) Participants & Responsibilities
 
-| Name   | Role          | Responsibility                                                                                       | Key Contribution (quant)      | Evidence Links (required)                                                                                                                                                                                      |
-| ------ | ------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Rachel | UIUX Designer | Complete the Website Interface, making the storyboard, testing and checking desployed website design | Website (2 vers) & Storyboard | https://www.figma.com/proto/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=5299-117978&t=IWokxFsmhviS8oNb-1&scaling=min-zoom&content-scaling=fixed&page-id=1292%3A32890&starting-point-node-id=5261%3A126335 |
+| Name       | Role               | Responsibility                                                                                       | Key Contribution (quant)      | Evidence Links (required)                                                                                                                                                                                      |
+| ---------- | ------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rachel     | UIUX Designer      | Complete the Website Interface, making the storyboard, testing and checking desployed website design | Website (2 vers) & Storyboard | https://www.figma.com/proto/ZovLgCmIn10m8E9Lprd2T5/BLUE-FISH---ver02?node-id=5299-117978&t=IWokxFsmhviS8oNb-1&scaling=min-zoom&content-scaling=fixed&page-id=1292%3A32890&starting-point-node-id=5261%3A126335 |
+| Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components                                              |                               | https://github.com/belp-nft/belp-website                                                                                                                                                                       |
 
 > Tips
 >
