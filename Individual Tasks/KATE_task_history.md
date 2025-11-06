@@ -19,7 +19,35 @@
 
 ---
 
-## 2) Weekly Log for Sep–Oct (copy this section per week)
+## 2) Weekly Log for Sep–Oct
+
+### 2025-08 W1 (Jul 28–Aug 03)
+- **Key work:**  Landing page
+- **Owners:**  Kate
+- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
+- **Team hours (h):** (40 /40 )  
+- **Metrics/Results:**  Landing page design
+- **Dependencies & Risks / Mitigation:**  
+- **Next Actions (Owner / Due):**  continue design others pages
+
+### 2025-08 W1 (Aug 04–Aug 10)
+- **Key work:**  Mint pages, My collection page
+- **Owners:**  Kate
+- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
+- **Team hours (h):** (40 /40 )  
+- **Metrics/Results:**  Mint pages, My collection page
+- **Dependencies & Risks / Mitigation:**  
+- **Next Actions (Owner / Due):**  continue design others pages
+
+### 2025-08 W1 (Aug 11–Aug 17)
+- **Key work:**  Lore page, History page
+- **Owners:**  Kate
+- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
+- **Team hours (h):** (40 /40 )  
+- **Metrics/Results:**  Lore page, History page
+- **Dependencies & Risks / Mitigation:**  
+- **Next Actions (Owner / Due):**  
+
 ### 2025-09 W1 (Sep 01–Sep 07)
 - **Project/Work:** Design BOTANIKA X AETHIR announcement 
 - **Details (what/why/how):** Designed announcement post
