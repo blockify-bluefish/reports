@@ -6,15 +6,14 @@
 - **Project:** Botanika
 - **Owner/Lead:** Hieu Trung (Backend)  
 - **Duration:** 2025-08 ~ 2025-11  
-- **Goal/KPI:** p95 ≤ 300ms, 0 incidents/mo, +1.5pp success rate  
 - **Scope:** Design and implement gRPC and REST APIs for communication between embedded software and the Botanika backend; develop mock APIs for client-side file handling related to PoSA, PoST, and PoEr processes; build a desktop application for scanning QR codes and burning UUIDs into miners. 
-- **Key deliverables:** Functional gRPC communication module, stable API endpoints for embedded interaction, mock file storage APIs for PoSA/PoST/PoEr testing, and a working desktop QR scan app for UUID burning.
+- **Key deliverables:** All APIs and gRPC services operational. Currently in testing and monitoring phase to ensure stability.
 
 ## 1) Participants & Responsibilities
-| Name       | Role | Responsibility                                                      | Key Contribution (quant) | Evidence Links |
-|------------|---|---------------------------------------------------------------------|---|---|
-| Hieu Trung | Backend | gRPC service design, API implementation, desktop QR scan | Delivered full backend communication layer and mock API suite for PoSA/PoST/PoEr |  |
-| Bee Nguyễn | Frontend Developer | React/Next.js development, UI/UX implementation, responsive design | Built 2 complete platforms; 100+ components; <2s load times | Local development repositories |
+| Name       | Role               | Responsibility                                                                                                                                                                                                                                                                                                      | Key Contribution (quant)                                                                                | Evidence Links                 |
+|------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------|
+| Hieu Trung | Backend            | Developed and maintained all backend APIs, Built backend services and gRPC communication for embedded devices. Deployed all systems via Docker, handled API debugging and staging issue fixes. Built REST APIs to simulate client-side PoSA/PoST/PoEr file uploads. developed desktop app to scan QR for burn UUID  | All APIs and gRPC services operational. Currently in testing and monitoring phase to ensure stability.  | https://botanika.ai/           |
+| Bee Nguyễn | Frontend Developer | React/Next.js development, UI/UX implementation, responsive design                                                                                                                                                                                                                                                  | Built 2 complete platforms; 100+ components; <2s load times                                             | Local development repositories |
 
 ## 2) Weekly Log
 ### 2025-08 W1 (Aug 04–Aug 10)
