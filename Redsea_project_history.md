@@ -10,10 +10,16 @@
 ## 0) Project Overview
 
 - **Project name:** Red Sea
-- **Owner/Lead:**
-- **Duration (YYYY-MM ~ YYYY-MM):** 2025-09 ~ 2025-10
-- **Goal / Success Criteria (KPI):** (e.g., p95 ≤ 300ms, 0 incidents/mo, +x% conversion)
-- **In-scope / Out-of-scope:**
+- **Owner/Lead:** Bee Nguyễn
+- **Duration (YYYY-MM ~ YYYY-MM):** 2024-09 ~ 2025-11
+- **Goal / Success Criteria (KPI):** 
+    - Launch comprehensive trading platform with authentication system
+    - Real-time market data integration with <500ms API response time
+    - 99.5% uptime, secure user authentication & authorization
+    - Responsive UI/UX across desktop and mobile devices
+- **In-scope / Out-of-scope:**  
+    - In-scope: NextJS frontend, Authentication system, Trading strategies management, User profile management, Real-time data display, Responsive design
+    - Out-of-scope: Backend API development, Trading execution engine, Payment processing
 - **Key deliverables:** (docs/design/PRs/releases/dashboards — list links)
 - **Demo:** https://redsea.blockifyy.com/login
 - **GitHub Repository:** https://github.com/blockify-redsea
