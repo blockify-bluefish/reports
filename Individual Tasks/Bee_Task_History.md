@@ -39,81 +39,81 @@
 
 ## 2) Weekly Log for Aug–Nov (copy this section per week)
 
-### PROJECT 1: BOTANIKA ECOSYSTEM (Aug-Nov 2025) - 421h Total
+### PROJECT 1: BOTANIKA ECOSYSTEM (Aug-Nov 2025)
 
-### 2025-08 W1 (Aug 04–Aug 10) - 32h
+### 2025-08 W1 (Aug 04–Aug 10)
 
 - **Tasks:** Project setup, dual platform architecture, Next.js 14 + TypeScript configuration
 - **Deliverables:** 2 initialized projects, component library structure, development environment
 - **Results:** 100% setup completion, foundation ready for development
 
-### 2025-08 W2 (Aug 11–Aug 17) - 36h
+### 2025-08 W2 (Aug 11–Aug 17)
 
 - **Tasks:** JWT authentication system, UI component library (25+ components), routing setup
 - **Deliverables:** Login/logout functionality, protected routes, reusable components
 - **Results:** 100% auth success rate, component library established
 
-### 2025-08 W3 (Aug 18–Aug 24) - 35h
+### 2025-08 W3 (Aug 18–Aug 24) 
 
 - **Tasks:** User management CRUD, advanced data tables, customer dashboard
 - **Deliverables:** Complete user system, pagination/filtering, real-time analytics
 - **Results:** 1000+ records handled, <500ms response time
 
-### 2025-08 W4 (Aug 25–Aug 31) - 38h
+### 2025-08 W4 (Aug 25–Aug 31) 
 
 - **Tasks:** Advanced dashboard features, Chart.js data visualization, reporting system
 - **Deliverables:** Interactive charts, PDF/CSV export, real-time updates
 - **Results:** Comprehensive analytics dashboard, live data display
 
-### 2025-09 W1 (Sep 01–Sep 07) - 32h
+### 2025-09 W1 (Sep 01–Sep 07) 
 
 - **Tasks:** Marketing website hero section, responsive navigation, animations
 - **Deliverables:** Hero with CTAs, mobile menu, smooth scroll, SEO optimization
 - **Results:** 95+ mobile score, 60fps animations
 
-### 2025-09 W2 (Sep 08–Sep 14) - 36h
+### 2025-09 W2 (Sep 08–Sep 14) 
 
 - **Tasks:** Services section, contact form with validation, pricing cards
 - **Deliverables:** Interactive services, Nodemailer integration, responsive design
 - **Results:** 99% contact delivery rate, fully responsive
 
-### 2025-09 W3 (Sep 15–Sep 21) - 30h
+### 2025-09 W3 (Sep 15–Sep 21) 
 
 - **Tasks:** Cross-platform testing, performance optimization, bug fixes
 - **Deliverables:** Compatibility fixes, performance audit, mobile optimization
 - **Results:** <2s load times across all platforms
 
-### 2025-09 W4 (Sep 22–Sep 28) - 35h
+### 2025-09 W4 (Sep 22–Sep 28) 
 
 - **Tasks:** Highcharts integration, data export functionality, dashboard widgets
 - **Deliverables:** Advanced charts, CSV/PDF export, drag-and-drop customization
 - **Results:** Real-time interactive charts, export capabilities
 
-### 2025-10 W1 (Oct 01–Oct 05) - 28h
+### 2025-10 W1 (Oct 01–Oct 05) 
 
 - **Tasks:** Security enhancements, role-based access control, JWT improvements
 - **Deliverables:** Enhanced authentication, RBAC implementation, security headers
 - **Results:** 100% secure admin access, proper authorization
 
-### 2025-10 W2 (Oct 06–Oct 12) - 32h
+### 2025-10 W2 (Oct 06–Oct 12)
 
 - **Tasks:** Performance optimization, bug fixes, UX improvements
 - **Deliverables:** Optimized dashboard, resolved issues, better user flows
 - **Results:** 30% performance improvement, zero critical issues
 
-### 2025-10 W3 (Oct 13–Oct 19) - 32h
+### 2025-10 W3 (Oct 13–Oct 19)
 
 - **Tasks:** SEO optimization, structured data, social media integration
 - **Deliverables:** Meta tags, structured data, social sharing functionality
 - **Results:** 95+ SEO score, proper search indexing
 
-### 2025-10 W4 (Oct 20–Oct 26) - 30h
+### 2025-10 W4 (Oct 20–Oct 26) 
 
 - **Tasks:** Integration testing, final bug fixes, performance optimization
 - **Deliverables:** Test suite, bug documentation, performance benchmarks
 - **Results:** 95% test coverage, 25% performance boost
 
-### 2025-11 W1 (Nov 01–Nov 06) - 25h
+### 2025-11 W1 (Nov 01–Nov 06) 
 
 - **Tasks:** Deployment preparation, documentation, code cleanup
 - **Deliverables:** Deployment scripts, technical docs, production-ready code
@@ -121,75 +121,74 @@
 
 ## Botanika Project Summary
 
-- **Total Hours:** 421h over 4 months
 - **Key Achievements:** 2 complete platforms, 100+ components, <2s load times, 95+ performance scores
 - **Technology Stack:** Next.js 14, React, TypeScript, Tailwind CSS, Chart.js, Highcharts, Framer Motion
 
 ---
 
-# PROJECT 2: BELP NFT WEBSITE (Aug-Nov 2025) - 363h Total
+# PROJECT 2: BELP NFT WEBSITE (Aug-Nov 2025)
 
-### 2025-08 W4 (Aug 26–Aug 31) - 15h
+### 2025-08 W4 (Aug 26–Aug 31)
 
 - **Tasks:** Next.js 15.4.5 project setup, TypeScript + Tailwind configuration
 - **Deliverables:** Basic project structure, development environment
 - **Results:** <30s build time, <2s dev startup
 
-### 2025-09 W1 (Sep 02–Sep 08) - 32h
+### 2025-09 W1 (Sep 02–Sep 08)
 
 - **Tasks:** Hero section, navigation, footer with Framer Motion animations
 - **Deliverables:** Responsive UI components, mobile-first design
 - **Results:** 100% mobile compatibility, 85+ Lighthouse score
 
-### 2025-09 W2 (Sep 09–Sep 15) - 28h
+### 2025-09 W2 (Sep 09–Sep 15)
 
 - **Tasks:** Phantom wallet integration, Solana Web3.js setup
 - **Deliverables:** Wallet connection, balance display, environment configs
 - **Results:** 98% connection success rate, 100% wallet detection
 
-### 2025-09 W3 (Sep 16–Sep 22) - 35h
+### 2025-09 W3 (Sep 16–Sep 22) 
 
 - **Tasks:** Multi-wallet support (Solflare, Backpack, OKX, Glow), adapter pattern
 - **Deliverables:** Universal wallet system, auto-detection, Docker optimization
 - **Results:** 5 wallet types supported, 95% connection success
 
-### 2025-09 W4 (Sep 23–Sep 29) - 40h
+### 2025-09 W4 (Sep 23–Sep 29) 
 
 - **Tasks:** Lore page, Swiper.js carousels, advanced Framer Motion animations
 - **Deliverables:** Storytelling sections, image carousels, smooth animations
 - **Results:** 60fps animation smoothness, 100% touch responsiveness
 
-### 2025-10 W1 (Oct 01–Oct 06) - 45h
+### 2025-10 W1 (Oct 01–Oct 06) 
 
 - **Tasks:** Metaplex SDK integration, Candy Machine setup, UMI implementation
 - **Deliverables:** Blockchain foundation, mint transaction structure
 - **Results:** 100% Candy Machine loading success, stable RPC connection
 
-### 2025-10 W2 (Oct 07–Oct 13) - 38h
+### 2025-10 W2 (Oct 07–Oct 13) 
 
 - **Tasks:** JWT authentication, API integration, user data persistence
 - **Deliverables:** Backend config loading, wallet-auth integration
 - **Results:** 99.5% auth success rate, <200ms API response
 
-### 2025-10 W3 (Oct 14–Oct 20) - 50h
+### 2025-10 W3 (Oct 14–Oct 20) 
 
 - **Tasks:** Complete NFT minting workflow, transaction retry logic
 - **Deliverables:** End-to-end mint system, metadata handling
 - **Results:** 98.3% mint success rate, <10s confirmation
 
-### 2025-10 W4 (Oct 21–Oct 27) - 32h
+### 2025-10 W4 (Oct 21–Oct 27) 
 
 - **Tasks:** Code splitting, lazy loading, IPFS optimization
 - **Deliverables:** Performance improvements, loading states
 - **Results:** Page load 3.2s → 1.8s (44% improvement)
 
-### 2025-10 W5 (Oct 28–Nov 03) - 28h
+### 2025-10 W5 (Oct 28–Nov 03)
 
 - **Tasks:** Docker containerization, production deployment
 - **Deliverables:** Multi-stage Dockerfile, CI/CD pipeline
 - **Results:** 3min build time, 180MB container, 99.9% uptime
 
-### 2025-11 W1 (Nov 04–Nov 06) - 20h
+### 2025-11 W1 (Nov 04–Nov 06) 
 
 - **Tasks:** Candy Guard error fix, transaction reliability
 - **Deliverables:** Bug resolution, production optimizations
@@ -197,21 +196,21 @@
 
 ---
 
-# PROJECT 3: REDSEA TRADING PLATFORM (Sep-Oct 2025) - 364h Total
+# PROJECT 3: REDSEA TRADING PLATFORM (Sep-Oct 2025)
 
-### 2025-09 W1 (Sep 01–Sep 07) - 40h
+### 2025-09 W1 (Sep 01–Sep 07)
 
 - **Tasks:** NextJS 13+ setup, TailwindCSS configuration, routing structure
 - **Deliverables:** Project foundation, TypeScript config, authentication pages
 - **Results:** 100% project setup complete, dev environment ready
 
-### 2025-09 W2 (Sep 08–Sep 14) - 45h
+### 2025-09 W2 (Sep 08–Sep 14) 
 
 - **Tasks:** JWT authentication system, Zustand store, API client with interceptors
 - **Deliverables:** Complete auth service, login/register forms, state management
 - **Results:** 90% auth functionality, JWT integration complete
 
-### 2025-09 W3 (Sep 15–Sep 21) - 42h
+### 2025-09 W3 (Sep 15–Sep 21)
 
 - **Tasks:** User profile CRUD, localStorage persistence, react-hook-form validation
 - **Deliverables:** Profile management system, reusable UI components
@@ -220,25 +219,25 @@
 - **Issues & Risks / Mitigation:** localStorage sync issues resolved with proper error handling
 - **Next Actions:** Trading strategies module (Bee / Sep 28)
 
-### 2025-09 W4 (Sep 22–Sep 28) - 48h
+### 2025-09 W4 (Sep 22–Sep 28)
 
 - **Tasks:** Trading strategies management (8 CRUD operations), advanced filtering/search
 - **Deliverables:** Strategy service, admin/member pages, bulk operations
 - **Results:** Complete strategy system, fully responsive UI
 
-### 2025-10 W1 (Oct 01–Oct 05) - 35h
+### 2025-10 W1 (Oct 01–Oct 05) 
 
 - **Tasks:** RouteGuard HOC, role-based access control, session management
 - **Deliverables:** Protected routes, auto token handling, security enhancements
 - **Results:** 100% route protection, secure session handling
 
-### 2025-10 W2 (Oct 06–Oct 12) - 40h
+### 2025-10 W2 (Oct 06–Oct 12)
 
 - **Tasks:** UI/UX improvements, loading states, toast notifications
 - **Deliverables:** Skeleton screens, responsive layout, error handling
 - **Results:** 100% mobile responsiveness, enhanced UX
 
-### 2025-10 W3 (Oct 13–Oct 19) - 38h
+### 2025-10 W3 (Oct 13–Oct 19) 
 
 - **Tasks:** Code splitting, Next.js Image optimization, bundle analysis
 - **Deliverables:** Dynamic imports, performance utilities, API caching
@@ -247,20 +246,17 @@
     - [`b10bd48`](https://github.com/blockify-redsea/redsea-website/commit/b10bd48) - Update system with dynamic imports and code splitting for large components
     - [`5b07398`](https://github.com/blockify-redsea/redsea-website/commit/5b07398) - Core performance optimizations with Next.js Image component integration
     - [`e214dcc`](https://github.com/blockify-redsea/redsea-website/commit/e214dcc) - Update bundle analysis and API response caching mechanisms
-- **Hours:** 38h (Performance analysis and implementation)
 - **Metrics/Results:** Bundle size reduced by 30%, page load time <2s
 - **Issues & Risks / Mitigation:** Memory leaks identified and fixed
 - **Next Actions:** Testing and debugging (Bee / Oct 26)
 
 ### 2025-10 W4 (Oct 20–Oct 26)
 
-### 2025-10 W4 (Oct 20–Oct 26) - 44h
-
 - **Tasks:** Cross-browser testing, mobile compatibility, production build
 - **Deliverables:** Bug fixes, compatibility improvements, custom error pages
 - **Results:** 0 critical bugs, 100% cross-browser compatibility
 
-### 2025-10 W5 (Oct 27–Oct 31) - 32h
+### 2025-10 W5 (Oct 27–Oct 31) 
 
 - **Tasks:** Code cleanup, documentation, production configuration
 - **Deliverables:** Clean codebase, API documentation, QA testing
@@ -268,21 +264,21 @@
 
 ---
 
-# PROJECT 4: OWL LABS LANDING PAGE (Oct-Nov 2025) - 120h Total
+# PROJECT 4: OWL LABS LANDING PAGE (Oct-Nov 2025)
 
-### 2025-10 W4 (Oct 24–Oct 27) - 18h
+### 2025-10 W4 (Oct 24–Oct 27) 
 
 - **Tasks:** Next.js 16.0.0 + React 19.2.0 setup, Tailwind CSS 4.0, CI/CD configuration
 - **Deliverables:** Project foundation, TypeScript setup, development environment
 - **Results:** <45s build time, <3s dev startup
 
-### 2025-10 W5 (Oct 28–Oct 31) - 35h
+### 2025-10 W5 (Oct 28–Oct 31) 
 
 - **Tasks:** Hero section, services UI, SEO optimization, Docker configuration
 - **Deliverables:** Landing page components, responsive design, CI/CD pipeline
 - **Results:** 100% mobile compatibility, 90+ Lighthouse score
 
-### 2025-11 W1 (Nov 01–Nov 06) - 45h
+### 2025-11 W1 (Nov 01–Nov 06) 
 
 - **Tasks:** Admin dashboard, JWT authentication, MongoDB integration, contact management
 - **Deliverables:** Complete admin system, contact form, CSV export functionality
@@ -290,7 +286,7 @@
 - **Security Enhancements:**
   - [`a1b6c0d`](https://github.com/owl-labs-landing-page/owl-labs-website/commit/a1b6c0d) - Removed demo credentials from login form, implemented secure authentication flow, and enhanced security measures
 
-### 2025-11 W2 (Nov 06) - 22h
+### 2025-11 W2 (Nov 06)
 
 - **Tasks:** ESLint configuration, TypeScript rules, logo integration, production optimization
 - **Deliverables:** Code quality improvements, final UI polish, deployment preparation

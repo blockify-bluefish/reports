@@ -31,7 +31,6 @@
 - **Key work:**  Landing page,  Social post guidelines
 - **Owners:**  Kate , Rachel
 - **Deliverables/Evidence (required):**   https://www.figma.com/design/zWvzXRP1g62LpdOZArXkVn/BWGC-Design?node-id=0-1&t=T2LrtR7WgySkFehH-1
-- **Team hours (h):** (32 / 32)  
 - **Metrics/Results:**  Finish landing page design with light and dark mode with animation. Social post guidelines for all platform
 - **Dependencies & Risks / Mitigation:**  
 - **Next Actions (Owner / Due):**  
