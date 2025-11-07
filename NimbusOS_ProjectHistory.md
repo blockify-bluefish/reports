@@ -135,7 +135,7 @@
 - **Team hours:** ~40h  
 - **Metrics/Results:** Onboarding fully autonomous; UUID scanner workflow functional  
 - **Dependencies & Risks / Mitigation:** enable USB-C device mode  
-- **Next Actions:** Integrate UUID scanner + burn process into factory
+- **Next Actions:** Integrate UUID scanner + burn process for factory
 
 ---
 
