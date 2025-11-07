@@ -44,7 +44,6 @@
     - [`b9d5f3d`](https://github.com/belp-nft/belp-website/commit/b9d5f3d) - Initialize Next.js project with basic structure
     - [`3f03db4`](https://github.com/belp-nft/belp-website/commit/3f03db4) - Configure development environment
     - [`497019f`](https://github.com/belp-nft/belp-website/commit/497019f) - Setup initial dependencies and build tools
-- **Team hours (h):** 15h
 - **Metrics/Results:** Project foundation established, build pipeline working
 - **Dependencies & Risks / Mitigation:** None at this stage
 - **Next Actions (Owner / Due):** Start UI development (Bee / Sep 02)
@@ -61,7 +60,6 @@
     - [`324f1f2`](https://github.com/belp-nft/belp-website/commit/324f1f2) - Build hero section with animated elements
     - [`cf5fe7f`](https://github.com/belp-nft/belp-website/commit/cf5fe7f) - Add navigation and header components
     - [`e0aa9ed`](https://github.com/belp-nft/belp-website/commit/e0aa9ed) - Update to latest UI framework version
-- **Team hours (h):** 32h
 - **Metrics/Results:** Basic landing page functional, responsive on mobile/desktop
 - **Dependencies & Risks / Mitigation:** Wallet adapter compatibility - used standardized @solana/wallet-adapter
 - **Next Actions (Owner / Due):** Implement Solana wallet integration (Bee / Sep 15)
@@ -78,7 +76,6 @@
     - [`947c3bf`](https://github.com/belp-nft/belp-website/commit/947c3bf) - Configure package manager and dependencies
     - [`38aebb3`](https://github.com/belp-nft/belp-website/commit/38aebb3) - Add environment configuration files
     - [`e3152ea`](https://github.com/belp-nft/belp-website/commit/e3152ea) - Setup production and development environments
-- **Team hours (h):** 28h  
 - **Metrics/Results:** Phantom wallet connection working, balance display functional
 - **Dependencies & Risks / Mitigation:** Phantom extension detection - added fallback install prompts
 - **Next Actions (Owner / Due):** Add multi-wallet support (Bee / Sep 22)
@@ -96,7 +93,6 @@
     - [`cb4f16d`](https://github.com/belp-nft/belp-website/commit/cb4f16d) - Merge Docker improvements to main branch
     - [`14e2e96`](https://github.com/belp-nft/belp-website/commit/14e2e96) - Remove unused build arguments and update Next.js config
     - [`0e62649`](https://github.com/belp-nft/belp-website/commit/0e62649) - Merge production deployment configurations
-- **Team hours (h):** 35h
 - **Metrics/Results:** 5 wallet types supported, 95% connection success rate
 - **Dependencies & Risks / Mitigation:** Different wallet APIs - standardized through adapter pattern
 - **Next Actions (Owner / Due):** Start NFT minting implementation (Bee / Sep 29)
@@ -116,7 +112,6 @@
     - [`bd5d912`](https://github.com/belp-nft/belp-website/commit/bd5d912) - Update landing page with new components
     - [`9a4c98a`](https://github.com/belp-nft/belp-website/commit/9a4c98a) - Upgrade UI framework version for better performance
     - [`8f9cd66`](https://github.com/belp-nft/belp-website/commit/8f9cd66) - Fix ESLint configuration and code formatting
-- **Team hours (h):** 40h
 - **Metrics/Results:** Interactive storytelling sections, smooth animations, mobile-optimized
 - **Dependencies & Risks / Mitigation:** Animation performance - optimized with Framer Motion best practices
 - **Next Actions (Owner / Due):** Begin Candy Machine integration (Bee / Oct 06)
@@ -134,7 +129,6 @@
     - [`7dd3885`](https://github.com/belp-nft/belp-website/commit/7dd3885) - Merge authentication features to main branch
     - [`753c083`](https://github.com/belp-nft/belp-website/commit/753c083) - Merge pull request with backend integrations
     - [`0d7c486`](https://github.com/belp-nft/belp-website/commit/0d7c486) - Enhance wallet providers with user data and authentication
-- **Team hours (h):** 45h
 - **Metrics/Results:** Candy Machine data loading successful, mint transaction structure ready
 - **Dependencies & Risks / Mitigation:** Metaplex SDK complexity - extensive documentation review and testing
 - **Next Actions (Owner / Due):** Implement full minting flow (Bee / Oct 13)
@@ -152,7 +146,6 @@
     - [`c60ddd3`](https://github.com/belp-nft/belp-website/commit/c60ddd3) - Load candy machine configuration from backend with enhanced error management
     - [`c24f364`](https://github.com/belp-nft/belp-website/commit/c24f364) - Merge main branch with latest updates
     - [`6facd74`](https://github.com/belp-nft/belp-website/commit/6facd74) - Merge pull request with backend integration features
-- **Team hours (h):** 38h
 - **Metrics/Results:** User authentication working, data persistence functional
 - **Dependencies & Risks / Mitigation:** Backend API availability - implemented robust error handling and retry logic
 - **Next Actions (Owner / Due):** Complete minting implementation (Bee / Oct 20)
@@ -172,7 +165,6 @@
     - [`92e30fd`](https://github.com/belp-nft/belp-website/commit/92e30fd) - Merge build-dev branch with production optimizations
     - [`3f96969`](https://github.com/belp-nft/belp-website/commit/3f96969) - Update translation system and localization
     - [`4530dc4`](https://github.com/belp-nft/belp-website/commit/4530dc4) - Configure image optimization and add unoptimized props
-- **Team hours (h):** 50h
 - **Metrics/Results:** End-to-end minting functional, 98% success rate in testing
 - **Dependencies & Risks / Mitigation:** Network congestion affecting transactions - added compute budget optimization
 - **Next Actions (Owner / Due):** Performance optimization and testing (Bee / Oct 27)
@@ -192,7 +184,6 @@
     - [`1eb7bf6`](https://github.com/belp-nft/belp-website/commit/1eb7bf6) - Update ESLint config and add Oxanium font with carousel improvements
     - [`55c5289`](https://github.com/belp-nft/belp-website/commit/55c5289) - Merge main branch with configuration updates
     - [`9ee2d40`](https://github.com/belp-nft/belp-website/commit/9ee2d40) - Remove unused cloud assets and add new images with layout improvements
-- **Team hours (h):** 32h
 - **Metrics/Results:** Page load time reduced to 1.8s, Core Web Vitals all green
 - **Dependencies & Risks / Mitigation:** IPFS gateway reliability - implemented fallback gateway system
 - **Next Actions (Owner / Due):** Production deployment setup (Bee / Nov 03)
@@ -212,7 +203,6 @@
     - [`90385bf`](https://github.com/belp-nft/belp-website/commit/90385bf) - Update HeroSection styles for improved responsiveness and typography
     - [`f357604`](https://github.com/belp-nft/belp-website/commit/f357604) - Adjust LoreShop styles for improved layout and responsiveness
     - [`494901a`](https://github.com/belp-nft/belp-website/commit/494901a) - Enhance BelpSection and introduce CatCarouselCuteness component
-- **Team hours (h):** 28h
 - **Metrics/Results:** Production site live at https://belpy.xyz, 99.9% uptime achieved
 - **Dependencies & Risks / Mitigation:** Server capacity - monitored resource usage and optimized container resources
 - **Next Actions (Owner / Due):** Bug fixes and final optimizations (Bee / Nov 06)
@@ -231,7 +221,6 @@
     - [`a7d6f41`](https://github.com/belp-nft/belp-website/commit/a7d6f41) - Merge main branch with transaction improvements
     - [`2f04242`](https://github.com/belp-nft/belp-website/commit/2f04242) - Enhance minting by refreshing Candy Machine data and compute settings
     - [`43e4a0e`](https://github.com/belp-nft/belp-website/commit/43e4a0e) - Fix critical Candy Guard support for mint transactions
-- **Team hours (h):** 20h  
 - **Metrics/Results:** 99.7% mint success rate, resolved all critical production issues
 - **Dependencies & Risks / Mitigation:** Solana network stability - implemented robust retry mechanisms
 - **Next Actions (Owner / Due):** Project documentation and handover (Bee / Nov 06)
@@ -242,18 +231,18 @@
 
 ### **Monthly Hours & Development Focus**
 
-**August 2025 (15h total)**
+**August 2025**
 - Project initialization and architecture setup
 - Next.js 15.4.5 foundation, TypeScript configuration, initial project structure
 
-**September 2025 (135h total)** 
+**September 2025** 
 - Core UI development and wallet integration
 - Complete responsive landing page with 6 major sections
 - Universal wallet integration supporting 5 wallet types (Phantom, Solflare, Backpack, OKX, Glow)
 - Advanced animation system with Framer Motion
 - Performance: Initial page load 3.2s → 2.1s through optimization
 
-**October 2025 (193h total)**  
+**October 2025**  
 - Solana blockchain integration and NFT minting functionality
 - Complete Candy Machine v3 integration with Metaplex Foundation libraries
 - End-to-end NFT minting workflow with transaction confirmation
@@ -262,13 +251,11 @@
 - Production-ready Docker containerization
 - Performance: API response time <280ms average, Page load optimized to 1.8s
 
-**November 2025 (20h total - first week)**
+**November 2025**
 - Critical bug fixes and production stability
 - Resolved critical "MissingRemainingAccount" error in Candy Guard integration
 - Enhanced compute budget management for transaction reliability
 - Final mint success rate: 99.7%, Zero critical production issues
-
-**Total Project Hours: 363h**
 
 ### **Technical Stack & Architecture Implemented by Bee Nguyễn**
 
@@ -354,8 +341,6 @@
 - Comprehensive documentation and error handling
 
 ### **Original Baseline Metrics (Genesis/General Mints)**
-- Sep total hours (team): 100h — Genesis build & deploy (p95 280ms)
-- Oct total hours (team): 123h — General mint release (p95 270ms)
 - Top 3 outcomes:
   1. BELP Genesis & General mints launched successfully (100% uptime)
   2. Candy Machine v3 integration validated on mainnet
