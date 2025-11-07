@@ -419,7 +419,7 @@
 
 | Metric | Sep | Oct | Nov (1-5) | Total |
 |--------|-----|-----|-----------|-------|
-| **Hours Worked** | 198h | 156h | 44h | 398h |
+| **Hours Worked** | 176h | 184h | 32h | 392h |
 | **Projects Managed** | 4 | 4 | 5* | 5 |
 | **Deployments** | 1 | 1 | 0 | 2 |
 | **PRs Reviewed** | [X] | [X] | [X] | [X] |
