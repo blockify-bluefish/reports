@@ -209,7 +209,7 @@
 
 ---
 
-### Sep W5 (Sep 29 - Sep 30)
+### Sep W5 (Sep 29 - Oct 05)
 
 #### BlueFish
 - **v1.1 Final Review**: Code review and approval for v1.1
@@ -222,12 +222,12 @@
 - **Week Planning**: Prepared for October sprint
 
 #### Summary
-- **Total Hours**: ~16h
+- **Total Hours**: ~28h
 - **Focus**: Launch readiness validation
 
 ---
 
-### Oct W1 (Oct 01 - Oct 05)
+### Oct W1 (Oct 06 - Oct 12)
 
 #### BlueFish
 - **v1.1 Monitoring**: Production monitoring post-deployment
@@ -244,13 +244,35 @@
 - **Backend Review**: Reviewed API implementation progress
 
 #### Summary
-- **Total Hours**: ~32h
+- **Total Hours**: ~28h
+- **Focus**: Launch readiness validation
+
+---
+
+### Oct W1 (Oct 06 - Oct 12)
+
+#### BlueFish
+- **v1.1 Monitoring**: Production monitoring post-deployment
+- **Apple Response**: Reviewed 2nd round Apple feedback
+- **v1.2 Planning**: Kicked off v1.2 development (full Swap feature)
+
+#### BELPY NFT
+- **Launch Day**: Oct 10 production release coordination
+- **Post-Launch Monitoring**: Tracked minting success rates
+- **Issue Resolution**: Rapid response to any bugs
+
+#### Botanika
+- **Sprint Planning**: Defined Oct-Nov development priorities
+- **Backend Review**: Reviewed API implementation progress
+
+#### Summary
+- **Total Hours**: ~40h
 - **Deployments**: 1 (BELPY NFT - Oct 10)
 - **Major Events**: BELPY launch
 
 ---
 
-### Oct W2 (Oct 06 - Oct 12)
+### Oct W2 (Oct 13 - Oct 19)
 
 #### BlueFish
 - **Apple Communication**: 3 rounds of review messages with Apple
@@ -276,7 +298,7 @@
 
 ---
 
-### Oct W3 (Oct 13 - Oct 19)
+### Oct W3 (Oct 20 - Oct 26)
 
 #### BlueFish
 - **Apple Review Escalation**: 4 more Apple messages (ongoing)
@@ -299,7 +321,7 @@
 
 ---
 
-### Oct W4 (Oct 20 - Oct 26)
+### Oct W4 (Oct 27 - Nov 02)
 
 #### BlueFish
 - **Apple Communication**: 2 final rounds of Apple messages
@@ -316,31 +338,13 @@
 - **Strategic Planning**: Quarterly review preparation
 
 #### Summary
-- **Total Hours**: ~32h
+- **Total Hours**: ~36h
 - **Apple Messages**: 2 rounds (cumulative: 11 total through Nov 6)
 - **Deliverables**: v1.2 preparation, deployment docs
 
 ---
 
-### Oct W5 (Oct 27 - Oct 31)
-
-#### BlueFish
-- **v1.2 Final Review**: Last checks before submission
-- **Team Coordination**: Synced with Chay on any final issues
-
-#### Botanika
-- **Week Closing**: Sprint review and planning
-
-#### RedSea
-- **Project Wrap-up**: Final deliverables and documentation
-
-#### Summary
-- **Total Hours**: ~18h
-- **Focus**: Final preparations for November launches
-
----
-
-### Nov W1 (Nov 01 - Nov 05) - Livestream System R&D
+### Nov W1 (Nov 03 - Nov 09) - Livestream System R&D
 
 #### BlueFish
 - **v1.2 Monitoring**: Continued monitoring production stability
@@ -390,7 +394,7 @@
 ## Monthly Rollup
 
 ### September 2025
-- **Total Hours**: ~198h
+- **Total Hours**: ~210h (W1: 40h + W2: 40h + W3: 48h + W4: 54h + W5: 28h)
 - **Projects Active**: 4 (BlueFish, BELPY, RedSea, Botanika)
 - **PRs Reviewed**: [X]
 - **Deployments**: 1 (RedSea website)
@@ -398,7 +402,7 @@
 - **Key Challenges**: Apple compliance, system architecture, team coordination across projects
 
 ### October 2025
-- **Total Hours**: ~156h
+- **Total Hours**: ~150h (W1: 40h + W2: 38h + W3: 36h + W4: 36h)
 - **Projects Active**: 4
 - **PRs Reviewed**: [X]
 - **Deployments**: 1 (BELPY NFT - Oct 10)
@@ -407,7 +411,7 @@
 - **Key Challenges**: Apple Store compliance complexity, managing 4 concurrent projects
 
 ### November 2025 (In Progress)
-- **Total Hours (Nov 1-5)**: ~44h
+- **Total Hours (Nov 3-7)**: ~20h (estimated, week in progress)
 - **Projects Active**: 4 + Livestream R&D
 - **Major Activities**: Livestream system research, architecture design, tech stack evaluation
 - **Key Focus**: Real-time live commerce platform development
@@ -417,9 +421,9 @@
 
 ## Key Metrics Summary
 
-| Metric | Sep | Oct | Nov (1-5) | Total |
+| Metric | Sep | Oct | Nov (3-7) | Total |
 |--------|-----|-----|-----------|-------|
-| **Hours Worked** | 176h | 184h | 32h | 392h |
+| **Hours Worked** | 210h | 150h | 20h | 380h |
 | **Projects Managed** | 4 | 4 | 5* | 5 |
 | **Deployments** | 1 | 1 | 0 | 2 |
 | **PRs Reviewed** | [X] | [X] | [X] | [X] |
@@ -475,5 +479,5 @@
 
 
 **Report Generated:** November 7, 2025  
-**Period Covered:** September - November 5, 2025  
+**Period Covered:** September 1 - November 7, 2025  
 **Last Updated:** November 7, 2025
