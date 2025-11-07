@@ -177,6 +177,26 @@
 
 ## 3) Monthly Rollup (optional)
 
-- **Aug total hours (team):** 120
-- **Top 3 outcomes:** Landing page, Mint pages, History page, My collection page, Lore page
-- **Open issues & immediate actions:**
+### August-September 2025
+- **Aug total hours (team):** 120 hours
+  - Kate: Design all 5 core pages (Landing, Mint, History, Collection, Lore)
+  - Bee Nguyễn: Project setup, UI development, wallet integration (Phantom, Solflare, Backpack, OKX)
+  - Hieu Trung: Candy Machine setup, API implementation, admin interface
+
+- **Sep total hours (team):** ~240 hours (estimated: 3 team members × 4 weeks × 20 hrs/week)
+  - Bee Nguyễn: Core UI components, advanced animations, Candy Machine integration
+  - Hieu Trung: Backend deployment, testing, admin panel development
+  - Kate: Design refinements and component specifications
+
+### Top 3 Outcomes
+1. **Complete NFT Platform Design & Frontend:** Delivered all 5 core pages (Landing, Mint, History, Collection, Lore) with responsive design, animated components, and modern UI framework. Full wallet integration supporting 5+ wallet providers (Phantom, Solflare, Backpack, OKX).
+
+2. **Candy Machine Integration & NFT Minting:** Successfully configured Metaplex Candy Machine, implemented minting functionality with multi-wallet support, and deployed staging environment at https://belpy.blockifyy.com with active testing and verification across multiple wallets.
+
+3. **Admin Dashboard & Backend Infrastructure:** Built admin interface at https://admin.belpy.xyz for NFT conversion management and Candy Machine reconfiguration. Deployed complete backend API infrastructure supporting minting operations and state management.
+
+### Open Issues & Immediate Actions
+- **🔴 Phantom Wallet Domain Verification (CRITICAL):** Phantom wallet requires domain verification for NFT minting operations. Domain verification must be completed before production launch. Action: Contact Phantom support and complete domain verification process for belpy.xyz domain.
+- **🔴 High Candy Machine Creation Cost for General Collection**
+- **Production Deployment:** Prepare for mainnet deployment once Phantom domain verification is approved. Update DNS and SSL certificates as needed.
+

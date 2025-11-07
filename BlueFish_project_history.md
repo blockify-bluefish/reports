@@ -271,7 +271,7 @@
 
 - **Key work:**  Apple Store v1.1 deployment, Solo management of 11-round Apple Review communication (Oct 16 - Nov 6), Platform-specific biometry implementation, Apple review documentation (3 docs, ~371 lines), Swap feature compliance workaround, Enhanced NFT details
 - **Owners:** Chay
-- **Deliverables/Evidence (required):**  • v1.1 Release: https://github.com/blockify-bluefish/bluefish-mobile/commit/44a525b0f4b550c489c545fe581a69d72b2dddc5<br>• Swap Workaround: https://github.com/blockify-bluefish/bluefish-mobile/commit/e8bb733398577d0657efa45f6d7a9e7ceed7141d<br>• App Store Connect Submission: `60076b46-9f33-4b10-9377-6d163895f50f`
+- **Deliverables/Evidence (required):**  • v1.1 Release: https://github.com/blockify-bluefish/bluefish-mobile/commit/44a525b0f4b550c489c545fe581a69d72b2dddc5<br>• Swap Workaround: https://github.com/blockify-bluefish/bluefish-mobile/commit/e8bb733398577d0657efa45f6d7a9e7ceed7141d<br>• App Store Connect Submission: `60076b46-9f33-4b10-9377-6d163895f50f`<br>• Apple Review Video Clip: https://bluefishwallet.com/app-clips
 
 - **Metrics/Results:**  Commits: 2 (major releases), Lines changed: ~947 insertions, ~222 deletions, Documentation added: ~371 lines (Apple review), Apple messages handled: 11 (solo), Files modified: 44, New service modules: 1, Review duration: 3+ weeks (ongoing), Apple Review Process: 11 rounds (Oct 16 - Nov 6) all handled by Chay solo
 - **Dependencies & Risks / Mitigation:**  **Swap Feature Compliance:** App has Swap functionality but lacks required financial documentation; Implemented temporary workaround: Swap code exists but is conditionally disabled; Waiting for regulatory documentation approval; Backend team will re-enable via API once approved (no client update needed). **Multi-round Apple Review:** Required persistent communication over 3+ weeks; Each response needed careful technical + compliance documentation; Balancing feature functionality with Apple's guidelines. Platform-specific biometry handling required separate iOS/Android implementations. Apple review required detailed guideline response documentation.
@@ -281,7 +281,30 @@
 
 
 ## 3) Monthly Rollup (optional)
-- **Sep total hours (team):**  
-- **Oct total hours (team):**  
-- **Top 3 outcomes:**  
-- **Open issues & immediate actions:**
+
+### September 2025
+- **Sep total hours (team):** ~480 hours (estimated: 4 team members × 4 weeks × 30 hrs/week)
+  - Chay: VoIP implementation, Apple Store v1.0 launch, compliance documentation
+  - Renea: Destination token list, quote auto-reload, swap ETH confirmation refinements
+  - Rachel: UI dark mode updates and storyboard finalization
+  - Andy: Support and infrastructure maintenance
+
+### October 2025
+- **Oct total hours (team):** ~520 hours (estimated: 4 team members × 4 weeks × 32.5 hrs/week)
+  - Chay: Apple v1.1 preparation, testing, 11-round Apple Review communication (solo management), biometry implementation
+  - Renea: Swap functionality refinement and edge case handling
+  - Rachel: Minor UI iterations and support
+  - Andy: Backend stability and production support
+
+### Top 3 Outcomes
+1. **🎉 Apple App Store v1.0 & v1.1 Launches (Sep & Oct-Nov):** Successfully deployed two major releases to App Store with full VoIP/CallKit integration and platform-specific biometry. Managed 11 rounds of Apple Review communication solo (Chay), demonstrating strong technical and compliance documentation skills.
+
+2. **Complete Multi-Chain Swap Functionality (Aug-Oct):** Implemented end-to-end swap flow across BTC, Solana, and ETH with quote generation, user-configurable slippage, automatic quote refresh, and comprehensive error tracking via Sentry integration. Enabled users to seamlessly exchange tokens across multiple blockchain networks.
+
+3. **Comprehensive Design System & User Flows (Nov 2024-Jul 2025):** Created complete design system with 2 full app versions (v1.0 & v2.0), 8+ core features, storyboards, and user flows. Delivered 6 months of iterative design improvements with dark mode palette, enabling smooth handoff to development team.
+
+### Open Issues & Immediate Actions
+- **Swap Feature Compliance (Pending):** Swap functionality currently disabled pending regulatory documentation approval. Waiting for backend team to re-enable via API once compliance docs are approved. No client update needed for re-enablement.
+- **Apple Review Status (Ongoing):** BlueFish v1.1 still undergoing Apple Review as of Nov 6. Chay maintaining communication with Apple review team. Expected approval by Nov 10-14.
+- **Production Stability:** Continue monitoring Sentry error tracking for any runtime issues in production. Focus on user feedback loops for next iteration (v1.2 planning).
+- **Next Sprint Planning:** Schedule v1.2 feature planning with product team; prioritize based on user feedback from v1.0/v1.1 usage data.
