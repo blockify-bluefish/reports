@@ -18,11 +18,11 @@
 
 ## 1) Participants & Responsibilities
 
-| Name       | Role               | Responsibility                                          | Key Contribution (quant)                                              | Evidence Links (required)                                                                         |
-| ---------- | ------------------ | ------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Kate       | UI Designer        | Design                                                  | Landing page, Mint pages, History page, My collection page, Lore page | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0 |
-| Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components | https://github.com/belp-nft/belp-website                              |
-| Hieu Trung | Backend | Candy Machine setup, API implementation, website deployment, admin management for NFT conversion | Successfully configured Candy Machine, completed mint testing, and deployed backend integration |  |
+| Name       | Role               | Responsibility                                                                               | Key Contribution (quant)                                              | Evidence Links (required)                                                                                                               |
+| ---------- |--------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Kate       | UI Designer        | Design                                                                                       | Landing page, Mint pages, History page, My collection page, Lore page | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0                                       |
+| Bee Nguyễn | Frontend Developer | UI development, wallet integration, advanced components  | Successfully apply CandyMachine for page, handle history, storaged item NFTs | https://github.com/belp-nft/belp-website                            |
+| Hieu Trung | Backend + Devops   | Set up Candy Machine and NFT backend APIs, built admin panel, and deployed production site.  | NFT minting successfully launched and verified.                       | https://belpy.xyz/ and contract address https://solscan.io/account/FqSAi6Uda8ri9zV1RBfq25GdfPdeKb24yHqvSgsi83Z4, Releases (2025-10-10)  |
 
 > Tips
 >
@@ -165,7 +165,7 @@
 - **Key work:** 
   - Deployed the Belpy NFT admin website
   - Built a simple admin interface for NFT conversion and Candy Machine reconfiguration
-- **Owners:** JHieu Trung
+- **Owners:** Hieu Trung
 - **Links:** 
     - https://admin.belpy.xyz/
     - Some commits setup APIs and update UI:
