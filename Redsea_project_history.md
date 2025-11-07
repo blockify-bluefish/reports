@@ -9,12 +9,14 @@
 
 ## 0) Project Overview
 
-- **Project name:**
+- **Project name:** Red Sea
 - **Owner/Lead:**
-- **Duration (YYYY-MM ~ YYYY-MM):**
+- **Duration (YYYY-MM ~ YYYY-MM):** 2025-09 ~ 2025-10
 - **Goal / Success Criteria (KPI):** (e.g., p95 ≤ 300ms, 0 incidents/mo, +x% conversion)
 - **In-scope / Out-of-scope:**
 - **Key deliverables:** (docs/design/PRs/releases/dashboards — list links)
+- **Demo:** https://redsea.blockifyy.com/login
+- **GitHub Repository:** https://github.com/blockify-redsea
 
 ## 1) Participants & Responsibilities
 
