@@ -21,7 +21,7 @@
 - **Key work:** Project setup and architecture planning for Botanika ecosystem
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Initial Next.js project scaffolding, TypeScript configuration, Tailwind CSS setup
-- **Team hours (h):** 32h
+
 - **Metrics/Results:** 2 project repositories initialized with proper tooling
 - **Dependencies & Risks / Mitigation:** Need design mockups / Created initial component library
 - **Next Actions (Owner / Due):** Start admin dashboard development (Bee / Aug 17)
@@ -31,7 +31,7 @@
 - **Key work:** Botanika Admin Dashboard foundation development
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Core dashboard components, authentication system, routing structure
-- **Team hours (h):** 36h
+
 - **Metrics/Results:** 20+ reusable components created, authentication flow implemented
 - **Dependencies & Risks / Mitigation:** GraphQL schema definition needed / Mock data implementation
 - **Next Actions (Owner / Due):** Complete admin user management (Bee / Aug 24)
@@ -40,7 +40,7 @@
 - **Key work:** Admin user management and data tables implementation
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** User management module, customer dashboard, data visualization components
-- **Team hours (h):** 35h
+
 - **Metrics/Results:** Complete CRUD operations, responsive table components, search/filter functionality
 - **Dependencies & Risks / Mitigation:** API endpoints for user data / Implemented with mock data
 - **Next Actions (Owner / Due):** Start marketing website development (Bee / Aug 31)
@@ -49,7 +49,7 @@
 - **Key work:** Admin dashboard advanced features and data visualization
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Advanced admin features, data visualization components, reporting system
-- **Team hours (h):** 38h
+
 - **Metrics/Results:** Interactive charts with Chart.js, comprehensive reporting, mobile-responsive design
 - **Dependencies & Risks / Mitigation:** Chart.js integration challenges / Implemented custom chart components
 - **Next Actions (Owner / Due):** Marketing website development (Bee / Sep 7)
@@ -58,7 +58,7 @@
 - **Key work:** Botanika marketing website architecture and hero section
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Marketing website foundation, hero section, navigation system
-- **Team hours (h):** 32h
+
 - **Metrics/Results:** Responsive hero section, smooth animations with Framer Motion
 - **Dependencies & Risks / Mitigation:** Marketing content and assets / Used placeholder content
 - **Next Actions (Owner / Due):** Complete marketing sections (Bee / Sep 14)
@@ -68,7 +68,7 @@
 - **Key work:** Marketing website content sections and contact forms
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Services section, stats section, contact form with validation
-- **Team hours (h):** 36h
+
 - **Metrics/Results:** Interactive contact form, input validation, responsive grid layouts
 - **Dependencies & Risks / Mitigation:** Email service integration / Implemented form handling
 - **Next Actions (Owner / Due):** Cross-platform testing (Bee / Sep 21)
@@ -82,7 +82,7 @@
 - **Links:**
   - gRPC IP: 13.251.58.132:50051,
   - Simulate client-side PoSA/PoST/PoEr file uploads and fix bugs API [Commits link: bd8e5fc, aa7ba0d, ...., 4703b3b](https://github.com/botanika-blockify/botanika-core/commits?author=trunghph)
-- **Team hours (h):** 32
+
 - **Results:** gRPC services and backend APIs have been successfully implemented and are nearly complete in testing.
 - **Dependencies & Risks / Mitigation:**  Documentation inconsistencies.
 
@@ -92,7 +92,7 @@
 - **Owners:** Hieu Trung
 - **Links:** 
     - Testing PoSA/PoST/PoEr and fix bugs API [Commits link](https://github.com/botanika-blockify/botanika-core/commit/e7ea279f2032ba203a5600f9323a450883b79700)
-- **Team hours (h):**  20
+
 - **Results:** Several bugs resolved; API performance and code structure optimized for cleaner implementation.
 - **Dependencies & Risks / Mitigation:** No major issues encountered.
 
@@ -100,7 +100,7 @@
 - **Key work:** Advanced dashboard features and data visualization
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Advanced charts, data export functionality, dashboard customization
-- **Team hours (h):** 35h
+
 - **Metrics/Results:** Interactive dashboard with Highcharts, CSV export, customizable widgets
 - **Dependencies & Risks / Mitigation:** Real-time data requirements / Implemented with mock data
 - **Next Actions (Owner / Due):** Admin portal enhancements (Bee / Oct 5)
@@ -109,7 +109,7 @@
 - **Key work:** Cross-platform integration testing and bug fixes
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Integration test results, bug fix documentation, performance benchmarks
-- **Team hours (h):** 30h
+
 - **Metrics/Results:** 95% test coverage, resolved 8 critical bugs, optimized performance by 25%
 - **Dependencies & Risks / Mitigation:** QA testing resources / Self-testing with comprehensive checklist
 - **Next Actions (Owner / Due):** Final deployment preparation (Bee / Nov 2)
@@ -120,7 +120,7 @@
 - **Owners:** Hieu Trung
 - **Links:**
   - Desktop app [Commits](https://github.com/botanika-blockify/botanika-factory/commits/staging/)
-- **Team hours (h):** 25
+
 - **Metrics:** The desktop QR scanning application for UUID burning is currently under testing.
 - **Dependencies & Risks / Mitigation:** 
   - Lack of documentation for this feature required additional research and troubleshooting time.
