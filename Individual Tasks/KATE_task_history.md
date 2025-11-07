@@ -9,9 +9,11 @@
 ## 1) Work History (Past → Present Summary)
 | Period (YYYY-MM~) | Project/Work | Role | Summary of Contribution | Results (quant) | Deliverable Links (required) | Collaborators | Tech/Tools | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 2025-09 ~ 2025-10 | Botanika | Graphic designer | Complete all design tasks with design team | - |  | BMHung | Adobe, Figma | - |
+| 2025-07 ~ 2025-10 | Botanika | Graphic designer | Complete all design tasks with design team | - |  | BMHung | Adobe, Figma | - |
+| 2025-07 ~ 2025-08 | BELPY | UI designer | Designer all UI pages | - | https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0 | Rachel, Bee, Hieu trung | Adobe, Figma |  |
+| 2025-08 | BWGC Design | UI designer | Landing page | - | https://www.figma.com/design/zWvzXRP1g62LpdOZArXkVn/BWGC-Design?node-id=0-1&t=T2LrtR7WgySkFehH-1 | Rachel | Adobe, Figma |  |
 | 2025-09 | RedSea | Graphic designer | Logo, graphics | - | https://drive.google.com/drive/folders/17INJ4sr9MAqKXZ8qONWJEF4bmTy8tg62?usp=drive_link | Rachel | Adobe, Figma |  |
-| 2025-09 | IKE-B | Graphic designer | Shirt design | 27 design | https://drive.google.com/drive/folders/17INJ4sr9MAqKXZ8qONWJEF4bmTy8tg62?usp=drive_link | BMHung, Rachel | Adobe | - |
+| 2025-10 | IKE-B | Graphic designer | Shirt design | 27 design | https://drive.google.com/drive/folders/17INJ4sr9MAqKXZ8qONWJEF4bmTy8tg62?usp=drive_link | BMHung, Rachel | Adobe | - |
 
 > Tips  
 > - Include **numbers/metrics** (p95 latency, throughput, error rate, cost, etc.).  
@@ -19,41 +21,13 @@
 
 ---
 
-## 2) Weekly Log for Sep–Oct
-
-### 2025-08 W1 (Jul 28–Aug 03)
-- **Key work:**  Landing page
-- **Owners:**  Kate
-- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
-- **Team hours (h):** (40 /40 )  
-- **Metrics/Results:**  Landing page design
-- **Dependencies & Risks / Mitigation:**  
-- **Next Actions (Owner / Due):**  continue design others pages
-
-### 2025-08 W1 (Aug 04–Aug 10)
-- **Key work:**  Mint pages, My collection page
-- **Owners:**  Kate
-- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
-- **Team hours (h):** (40 /40 )  
-- **Metrics/Results:**  Mint pages, My collection page
-- **Dependencies & Risks / Mitigation:**  
-- **Next Actions (Owner / Due):**  continue design others pages
-
-### 2025-08 W1 (Aug 11–Aug 17)
-- **Key work:**  Lore page, History page
-- **Owners:**  Kate
-- **Deliverables/Evidence (required):**   https://www.figma.com/design/ZE8ncHWNQGe9WrsEaSB3XH/BELP-NFT?node-id=0-1&p=f&t=SWO89jhkY4ETFYhR-0
-- **Team hours (h):** (40 /40 )  
-- **Metrics/Results:**  Lore page, History page
-- **Dependencies & Risks / Mitigation:**  
-- **Next Actions (Owner / Due):**  
-
+## 2) Weekly Log for Sep–Oct (copy this section per week)
 ### 2025-09 W1 (Sep 01–Sep 07)
 - **Project/Work:** Design BOTANIKA X AETHIR announcement 
 - **Details (what/why/how):** Designed announcement post
 - **Deliverables/Evidence (required):** https://drive.google.com/drive/folders/1LB4MpbsycGQ7ENmqD6nHp6YJkg0DAaKV
 - **Hours (h):** 3 (Ideation 1 / Design 2)
-- **Metrics/Results:** Completed 2 designs  
+- **Metrics/Results:** Completed 3 designs  
 - **Issues & Risks / Mitigation:** None
 - **Next Actions (Owner / Due):** None
 
