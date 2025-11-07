@@ -100,18 +100,9 @@
 - **Owners:** Bee Nguyễn
 - **Deliverables/Evidence (required):** Advanced charts, data export functionality, dashboard customization
 
-- **Metrics/Results:** Interactive dashboard with Highcharts, CSV export, customizable widgets
+- **Metrics/Results:** Interactive dashboard with Highcharts, customizable widgets
 - **Dependencies & Risks / Mitigation:** Real-time data requirements / Implemented with mock data
 - **Next Actions (Owner / Due):** Admin portal enhancements (Bee / Oct 5)
-
-### 2025-10 W4 (Oct 20–Oct 26)
-- **Key work:** Cross-platform integration testing and bug fixes
-- **Owners:** Bee Nguyễn
-- **Deliverables/Evidence (required):** Integration test results, bug fix documentation, performance benchmarks
-
-- **Metrics/Results:** 95% test coverage, resolved 8 critical bugs, optimized performance by 25%
-- **Dependencies & Risks / Mitigation:** QA testing resources / Self-testing with comprehensive checklist
-- **Next Actions (Owner / Due):** Final deployment preparation (Bee / Nov 2)
 
 ### 2025-11 W1 (Nov 3 – Nov 6)
 - **Key work:**
