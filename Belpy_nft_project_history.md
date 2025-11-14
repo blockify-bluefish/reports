@@ -11,7 +11,7 @@
 
 - **Project name:** BELPY NFT
 - **Owner/Lead:** Jack Le
-- **Duration (YYYY-MM ~ YYYY-MM):** 2025-07 ~ 2025-10
+- **Duration (YYYY-MM ~ YYYY-MM):** 2025-08 ~ 2025-11
 - **Goal / Success Criteria (KPI):** Complete NFT platform with Landing page, Mint pages, History page, My collection page, Lore page
 - **In-scope / Out-of-scope:** Design, Frontend Development, Backend Development, Smart Contract Development
 - **Key deliverables:** Figma design, Frontend implementation, Backend API, Smart contracts
